@@ -1,0 +1,3043 @@
+The Project Gutenberg EBook of Komet und Erde, by Camille Flammarion
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Komet und Erde
+       Eine astronomische Erzählung
+
+Author: Camille Flammarion
+
+Translator: J. Cassirer
+
+Release Date: December 15, 2019 [EBook #60930]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK KOMET UND ERDE ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+    Anmerkungen zur Transkription
+
+
+    Das Original ist in Fraktur gesetzt. Im Original gesperrter Text
+    ist _so ausgezeichnet_. Im Original in Antiqua gesetzter Text ist
+    ~so markiert~. Im Original fetter Text ist =so dargestellt=.
+
+    Weitere Anmerkungen zur Transkription befinden sich am Ende des
+    Buches.
+
+
+
+
+    Komet und Erde.
+
+    Eine astronomische Erzählung
+
+    von
+
+    Camille Flammarion.
+
+    Autorisierte Uebersetzung aus dem Französischen
+
+    von
+
+    J. Cassirer.
+
+    Leipzig
+
+    Druck und Verlag von Philipp Reclam jun.
+
+
+
+
+Einleitung.
+
+
+Was wir hier erzählen wollen, ist kein Phantasiegebilde, das aus den
+Gefilden einer oft nur zu schöpferischen Einbildung hervorgegangen ist;
+vielmehr haben eingehende Studien das Material hierzu geliefert, und
+auf wissenschaftlichem Boden ist unser Bericht gewachsen.
+
+Der Komet, den wir hier vorführen wollen und der uns die Grundlagen
+zu unserer Erzählung bieten soll, ist keine Mythe; er existiert, und
+Millionen von Menschen haben ihn über ihrem Haupte leuchten sehen, wie
+das Ende unserer Erzählung beweisen wird.
+
+Die Daten seiner früheren Erscheinungen sind nicht willkürlich
+angenommen, sondern nach elliptischen Elementen berechnet worden; man
+kann den Berechnungen getrost Glauben schenken, denn diese Elemente
+sind den Astronomen wohlbekannt, und die bei ihnen überhaupt mögliche
+Fehlergrenze beträgt nicht mehr als ein Hundertstel.[1]
+
+Auch in der Beschreibung der Gebiete, die unser kühner Reisender
+besucht, sind wir nicht planlos vorgegangen, sie beruht vielmehr zum
+Teil auf direkten Beobachtungen, zum Teil auf wissenschaftlichen
+Folgerungen.
+
+Keine der erwähnten Erscheinungen, auch nicht die kleinste ausgenommen,
+ist erfunden. Nicht in das Blaue hinein haben wir unser Wort ergehen
+lassen, sondern es ist stets im Dienste der Wissenschaft und ihrer
+erhabenen Herrin, der Wahrheit, geblieben.
+
+Aus solch festem Faden ist der Stoff gewebt, den wir jetzt das
+Vergnügen haben, vor unseren geneigten Lesern aufzurollen.
+
+
+Fußnoten
+
+[1] Astronomisch gebildete Leser werden sofort wissen, um welchen
+Kometen es sich handelt, wenn wir ihnen nachstehende Elemente nennen:
+
+    Τ   = 1811, Septbr. 12. 26
+    π   = 75° 1´ 0´´
+    Ω   = 140° 25´ 1´´
+    ~i~ = 73° 2´ 43´´
+    ~q~ = 1.03542.
+
+Als beinahe überflüssig könnten wir noch hinzufügen, daß die Entfernung
+des Kometen im Aphelium 421.02, seine halbe große Achse 208, seine
+Exzentrizität 0.9951 beträgt und daß seine Bewegung rückläufig ist.
+
+
+
+
+Erstes Kapitel.
+
+Erste Begegnung des Kometen mit der Erde.
+
+
+Es mag im Jahre Sechshundertelftausendundneunundachtzig vor Christi
+Geburt gewesen sein, als der große Komet, der von den Bewohnern des
+Saturn schon fast seit hundertundvierzigtausend Jahren beobachtet
+worden war, einen winzigen Planeten entdeckte, der gegen achthundertmal
+kleiner war als der, den wir soeben genannt haben. Der neue Planet
+machte einen recht armseligen Eindruck: eine kleine Kugel, die sich
+ziemlich unbeholfen um sich selbst drehte, und die in dicke Rauchwolken
+eingehüllt war, welche von furchtbaren geologischen und atmosphärischen
+Umwälzungen, die sich in ihrem Inneren vollzogen, Kunde gaben. Für
+Menschen war sie gänzlich unbewohnbar.
+
+Der Komet, dessen Schweif nicht weniger als vierzig Millionen Meilen
+Länge besaß, dessen noch nicht fester Kern fünftausendvierhundert
+Meilen im Durchmesser maß und dessen Strahlen sich auf
+vierhundertsechsundachtzigtausend Meilen Ausdehnung in der Breite
+erstreckten -- heutzutage sind seine Dimensionen nur halb so groß,
+als sie damals waren --, der Komet, der sich bisher höchstens mit
+den Monden des Jupiter, Saturn, Uranus und Neptun befaßt hatte und
+der immer nur unter der vornehmsten Gesellschaft des Firmaments
+umhergestreift war, sah sich beim Anblick unseres kleinen irdischen
+Gestirns seltsam und fast unangenehm überrascht.
+
+Wenn sich auch unser Held der unendlichen Mannigfaltigkeit der
+Schöpfung bewußt war, so hatte er sich doch niemals vorstellen können,
+daß es auch solch kleine Weltkörper geben könnte. Er mußte unsere Erde
+mehrmals ansehen, bevor er seinen Augen glauben wollte, und erst, als
+er sich überzeugt hatte, daß jede Täuschung ausgeschlossen sei, ließ er
+sich herab, von dem Dasein der neuen Weltkugel Kenntnis zu nehmen. Die
+niedrige Stellung, die diese unter den Gestirnen des Himmels einnahm,
+erschien in den Augen des Kometen noch geringer. Indem er sich in
+seine kometarische Majestät hüllte, flog er stolz an dem kleinen neuen
+Sprößling der Schöpfung vorüber, wobei er den Kopf abwandte. Seinen
+strahlenden Schweif aufrichtend, nahm er dann seinen alten Weg wieder
+auf, um stolz seinen glänzenden Flug durch die Tiefen des Weltalls
+fortzusetzen.
+
+So gehen -- leider nur zu oft in der Welt -- die Großen an den Kleinen,
+die Mächtigen an den Schwachen vorüber. In ihrem Hochmut erkennen sie
+den Wert des Kleinen nicht und ihre Verblendung macht sie ungerecht.
+Als ob Geschöpfe, denen Schönheit und Anmut abgeht, nicht auch Kinder
+derselben Natur wie sie und Glieder derselben großen Familie wären!
+
+Man muß indessen zugeben, daß unsere Erde für diejenigen, die sich über
+ihre Bedeutung in keiner Täuschung befinden, wie wir, eine recht kleine
+Welt ist. Unser Patriotismus für unsere »Mutter Erde«, so berechtigt er
+auch an sich sein mag, läßt sie uns größer und bedeutender erscheinen,
+als sie es in der Tat ist, und die Wanderer, die den Himmelsraum
+durchfliegen, mögen es durchaus nicht begreifen können, daß wir davon
+so viel Wesens machen.
+
+Der Komet, einer der schönsten, wenn nicht überhaupt der schönste
+unseres gesamten Sonnensystems, kommt nicht näher an die Sonne als
+die Erde heran: Zwanzig Millionen Meilen. In seiner Bahn beschreibt
+er eine Ellipse, und sobald er in die Gegend kommt, in der wir uns
+befinden, kehrt er in einem großen Halbkreise wieder um. Mit einer
+Schnelligkeit von vierhundert Meilen in der Minute eilt der himmlische
+Wanderer zu den Grenzen des Sonnensystems und kreuzt dabei die Bahnen
+sämtlicher darin kreisender Welten. Als ob es ihm leid tue, sich von
+der Sonne mit ihrer leuchtenden Krone entfernen zu müssen, verlangsamt
+er seinen Flug, je weiter er sich von ihr entfernt. Bis auf acht
+Milliarden dreihundertundsiebzehn Millionen Meilen Entfernung von der
+Sonne führt ihn seine Wanderung; soviel beträgt sein Aphelium, seine
+Sonnenferne. In diesen unfaßbaren Tiefen des Weltenraumes hat sich
+seine Schnelligkeit sehr verringert, und sie ist nicht mehr größer
+als die des Windes, das heißt, einige Meter in der Sekunde. Seine
+Kurve schließt sich jetzt von neuem, und er kehrt zu dem leuchtenden
+Tagesgestirn zurück, dessen Scheibe in dieser ungeheuren Entfernung
+allmählich so an Größe abgenommen hat, daß sie nur noch als ein kleiner
+Stern zu erkennen ist. Aus dieser erschreckenden Entfernung noch ruft
+ihn die Sonne, und der Komet hört ihre Stimme. Er wendet sich um und
+von seinen Polhöhen aus stürzt er sich auf die Sonnenbahn, wobei er
+es sorgfältig vermeidet, zu nahe an Jupiter und Saturn heranzukommen.
+Seine Schnelligkeit vergrößert sich zusehends, sie wächst und wird
+ungeheuer, heiß und gewaltig wie das Verlangen, und von neuem fliegt
+er der Sonne zu, die auf alle Planeten solch wunderbare Anziehung
+ausübt. Nach einer Reise von fünfzehnhundert Jahren erreicht er wieder
+sein Perihelium, seine Sonnennähe. Sein leuchtender Schweif, der immer
+blasser geworden war, je weiter sich der Komet von der Sonne entfernte,
+und der schließlich vollständig verschwunden war, kommt wieder zum
+Vorschein und wächst in dem Maße, in dem sich der Komet dem Mittelpunkt
+der Sphäre nähert. Seine Gestalt nimmt an Umfang zu, ebenso sein
+Schweif an Pracht und Glanz. Es ist gleichsam so, als ob ein hoher
+irdischer Würdenträger vor seinen Herrscher treten soll und zu diesem
+Behufe seine mit Gold und Edelsteinen reich geschmückten Festkleider
+anlegt. Der Komet hat das Gebiet der Königin des Lichtes betreten, und
+vor den erstaunten Augen entfaltet er majestätisch die Reize seiner
+Schönheit und seiner prächtigen Gewandung.
+
+Als im Jahre Sechshundertachttausendeinhundertvierundzwanzig vor
+Christi Geburt das leuchtende Gestirn auf seiner Wanderung wiederum
+in die Gegend kam, in der sich unsere Erde bewegt, wurde seine
+Aufmerksamkeit von neuem auf diesen kleinen meergrünen Ball gelenkt,
+und es gewann es nicht mehr über sich, ihn unbeachtet zu lassen.
+Große Personen interessieren sich ja oft für Kinder, und auch der
+Komet hielt es nicht unter seiner Würde, Beobachtungen über die Erde
+anzustellen; er wollte gern wissen, bis zu welchem Grade sich auf solch
+unscheinbarer Kugel wohl das Leben entwickeln könnte.
+
+Es traf sich insofern recht gut, als gerade damals der Komet ein volles
+Jahr lang in Sicht der Erde blieb und eine vorteilhafte Stellung für
+ihre Beobachtung einnahm; aber dies vermochte ihn doch nicht von der
+entgegengesetzten Richtung seines Umlaufs abwendig zu machen, die ihn
+wieder fortführte.
+
+Anstatt wie alle Planeten und fast alle Begleitsterne unseres
+Sonnensystems sich von Osten nach Westen zu bewegen, bewegt sich
+unser Komet von Westen nach Osten, also gerade entgegengesetzt. Diese
+konträre Bewegung machte die Beobachtung zwar schwieriger, aber gerade
+dadurch wurde sein Forschungseifer noch mehr angespornt, und während
+der zwölf Monate, während deren die Erde in seinem Gesichtsfelde blieb,
+ließ er keinen Tag und keine Nacht unbenutzt für seine Beobachtungen
+vorübergehen.
+
+Was er bereits vorher geahnt hatte, fand er jetzt bestätigt, nämlich,
+daß dieser kleine Sproß von einer Welt für vernunftbegabte Wesen noch
+unbewohnbar war. Langsam drehte sich der Weltkörper um sich selbst;
+der Wechsel von Tag und Nacht brachte auf ihm keine Wirkung hervor,
+denn die ungeheure Hitze, die er aus seinem Innern ausstrahlte, war um
+vieles größer als die, die er von der Sonne empfing. Übrigens würden
+auch die Nebel, die Gase und die Rauchwolken, die ihn einhüllten, den
+Sonnenstrahlen gar keinen Zutritt gewährt haben. Je mehr sich der
+Komet der irdischen Welt näherte, desto größere Mühe gab er sich, die
+Beschaffenheit ihrer Oberfläche zu erkennen; aber da er eine solch
+armselige Welt noch nie gesehen hatte und sich darüber nicht klar zu
+werden vermochte, welchem Zwecke ein solch dürftig ausgestatteter
+Planet wohl dienen könnte, wartete er, bis ein lichter Punkt in der
+Atmosphäre den Sonnenstrahlen erlauben würde, hindurchzudringen, um den
+Schauplatz einigermaßen zu beleuchten. Das traf endlich zur Zeit der
+Sonnenwende ein. War es aber die Winter- oder die Sommersonnenwende?
+Die Geschichte berichtet hierüber um so weniger, als es in jenen
+entlegenen Zeiträumen noch keine Jahreszeiten auf der Erde gab, und als
+es infolge der großen Eigenhitze der Erde sozusagen im tiefsten Winter
+ebenso heiß war wie im vollsten Sommer. Gleichviel an welchem Tage es
+gewesen sein mag, der Komet mußte vor Erstaunen fast aufschreien, als
+er endlich die Oberfläche der Erde deutlich unterscheiden konnte.
+
+»Eine Welt von Muscheln!« rief er.
+
+Er hatte sich nicht getäuscht. Die Erde befand sich damals
+in dem Stadium ihrer Entwicklung, das man als Sekundärzeit
+bezeichnet; die Triasformen bildeten sich, und es war die Zeit der
+Muschelkalkformation. --
+
+Einige Millionen Jahre vorher hatte sich die Erde, die damals eine
+noch ganz flüssige Kugel war, allmählich abgekühlt, und große
+Wasserbäche waren auf sie herniedergestürzt; der Rauch, die Gase, die
+Wolken, die von der Erde aufstiegen, gingen die verschiedenartigsten
+Verbindungen miteinander ein und hinterließen ihre Spuren auf der noch
+glühenden und unfesten Kugel. Gewaltige Umwälzungen erschütterten
+die in stetem Aufruhr befindlichen Fundamente der neugeschaffenen
+Welt, und furchtbares Toben und Brausen ließen das aufgeregte feurige
+Erdinnere nicht zur Ruhe kommen. Der Gewalt des in unausgesetzter
+Tätigkeit befindlichen Feuerherdes fiel die ganze Erdkugel zum Opfer.
+In diesem riesigen Laboratorium hat die Natur die chemischen Gemische
+vorbereitet, aus denen die feuerspeienden Berge, die Lava-Eruptionen,
+die aus der Erde aufsteigenden heißen Quellen usw. hervorgegangen
+sind. In derselben Weise, wie man im Schmelztiegel auf geschmolzenem
+Blei, das im Begriff ist, zu erkalten, sich ein Häutchen bilden sieht,
+bildete sich um den Erdball eine Kruste, und die beständigen Zuckungen
+ließen allmählich nach.
+
+Auf diese Entwicklungsperiode -- die Primärzeit -- während der es auf
+der Erde noch kein lebendes Wesen, weder Tier noch Pflanze, gab, folgte
+eine Übergangszeit, die so weit zurück liegt und so ungeheuer lange
+dauerte, daß kein menschlicher Geist sich von ihr eine Vorstellung
+machen kann. In dieser Periode war es, daß sich die ersten Keime zur
+Bildung lebender Wesen gestalteten, und unter unablässigen Wallungen
+und Änderungen der immer noch nicht erstarrten Erdoberfläche erschienen
+die ersten Pflanzen: Algen und Seetang, und auch auf dem Grunde des
+Meeres zeigten sich die ersten lebenden Gebilde: Korallen und Polypen.
+
+Noch später überzogen sich die Sümpfe der Urzeit mit einer endlosen
+Pflanzendecke, und mit ihr hatte das Reich der Pflanzen seine glänzende
+und prächtige Herrschaft angetreten. Als erster Regent des Erdballs
+entfaltete es all seine Reichtümer und Schätze, und die Erde sah keine
+Zeit mehr wiederkehren, in der sie eine solche Fülle pflanzlicher
+Formen und Gestalten bevölkerte. Es waren Pflanzen von höchst einfachem
+Bau und kunstlosen Formen, solche, die weder Blüten noch Früchte
+trugen, aber von gewaltiger Stärke und kolossaler Höhe waren. Mit ihrem
+Grün überdeckten sie jede Lagune, jede Bank, jede Landzunge, auf welche
+das weite Meer nicht seine Herrschaft ausgedehnt hatte. Die Erde sah
+aus wie ein einziger Ozean, der mit grünen Inseln durchsetzt war.
+Baumartige Farne, Kalamiten, Sigillarien und zahlreiche andere Arten
+stritten sich um den Vorrang auf den Inseln. Aus jener Epoche rührt
+die Bildung unserer Steinkohlen her, mit der wir heute unsere Zimmer
+heizen, jener ungeheuren, in längst entschwundenen Zeiten abgelagerten
+Pflanzenschichten, die wir jetzt ans Tageslicht bringen. Ihre Bildung
+geschah etwa eine Million Jahre vor der Zeit, in der unsere Geschichte
+anfängt. Von da an hat sich die Entwicklung des irdischen Lebens fort
+und fort vervollkommnet, und niemand vermag zu sagen, ob es schon
+seinen Gipfel erreicht hat.
+
+Als sich der Komet der Erde näherte, hatte er nur Muscheln wahrnehmen
+können. Trotzdem die schaffende Welt es an gutem Willen nicht hatte
+fehlen lassen, war es ihm doch nicht möglich gewesen, etwas anderes zu
+erkennen. Das Meer nahm noch die gesamte Oberfläche der Erde ein, wie
+es ja heutzutage noch drei Viertel von ihr bedeckt. Damals gab es noch
+kein Festland, sondern nur Inseln und Sümpfe. König der Schöpfung war
+damals eine Art Seeschnecke, ein Kopffüßler, ein ganz harmloses Tier.
+
+Dieses unschuldige Geschöpf, das wohl kaum ahnen mochte, daß es
+eines Tages nach Jupiter Ammon getauft werden würde, herrschte also
+als unumschränkter Souverän im Königreich des Neptun: »Der Dreizack
+des Neptun ist das Zepter der Welt«, sagt Lemierre. Kein Engländer
+könnte dieses Zepter mit größerem Rechte in Anspruch nehmen, als
+diese kleinen Tiere, von denen wir sprechen. Wie heutzutage jene
+Molluskenart, die unter dem Namen »Nautilus« bekannt ist, sah man sie
+in ihrem weißen oder vielfarbigen Nachen auf der Oberfläche des Meeres
+dahintreiben; große und kleine, in allen Gestalten; ganze Flotten von
+ihnen schwammen auf den Wassern, ihrer Beute nachstellend. Man sah
+sie rasch und zierlich dahinschießen, sich kreuzen, sich ausweichen,
+sich überholen, ganz so, als ob sie eine Regatta aufführten. »Man« sah
+sie; dieses »man« bedeutet den Kometen, denn außer ihm gab es keinen
+Zuschauer, der sich an diesem urweltlichen Schauspiel hätte ergötzen
+können. Überall Einsamkeit und Schweigen ...
+
+Unser Komet, der nicht wenig überrascht war, nur Muscheln zu sehen,
+Muscheln im Meer, Muscheln auf der Erde und überall nur Muscheln,
+erging sich in Mutmaßungen, wozu denn überhaupt die Erde eigentlich
+geschaffen sein mochte. »Es ist und bleibt ein großes Geheimnis,«
+sagte er sich, »daß man für derartige Wesen eigens eine Welt geformt
+hat.« Er versuchte sich vorzustellen, über welche geistige Kraft
+diese Geschöpfe wohl verfügen mochten, wie weit ihre Fähigkeiten
+gingen, ob sie wohl denken konnten usw. Trotz der Geringfügigkeit und
+Unansehnlichkeit des Erdballs konnte sich sein Geist doch nicht zu dem
+Glauben aufschwingen, daß dieser kleine Weltkörper nur dazu geschaffen
+sein sollte, um Mollusken zur Wohnung zu dienen. Er sah sich die
+verschiedenen Lebewesen genauer an, und es fielen ihm die Geselligkeit
+der Miesmuscheln und die Geschicklichkeit der Schildkröten, deren
+erste Exemplare gerade zum Leben erwachten, wohl auf. Er ließ die
+verschiedenen Arten der Mollusken: die Kopffüßler, die Bauchfüßler,
+die Blattkiemer, und wie sie alle heißen mögen, vor seinen Augen
+vorbeimarschieren; auch die Rankenfüßler (~Cirripediae~), die weder
+Kopf noch Füße noch Arme haben, übersah er nicht. Aber in dieser ganzen
+Gesellschaft fand er niemand, dem er die heilige Gabe der Vernunft
+zutrauen konnte.
+
+Seiner fruchtlosen Nachforschungen müde geworden, kehrte der Komet um,
+und ebenso wie in unendlich späterer Zukunft der ewige Jude, so dachte
+er, während er weiterging, und er ging weiter, während er dachte, bis
+plötzlich ein furchtbarer Schrei die Luft erzittern machte. »O,« rief
+der Komet aus, »da ist er wahrscheinlich, der König der neuen Welt. Ich
+danke dem Himmel dafür, daß er mich ihn noch vor meiner Abreise hat
+sehen lassen.« Er wandte sich um, und in der Tat -- er war da!
+
+Ein mißgestaltetes Ungeheuer von schwärzlicher Farbe, kolossalem
+Bau, höckrichter Haut, mit einem sehr langen Krokodilsrachen, der am
+Halse eines Nilpferdes befestigt zu sein schien, ein Ungetüm, dessen
+Vorderbeine anscheinend verkürzt waren, während seine Hinterbeine
+ebenso lang wie die eines Kamels waren, schleppte sich unbeholfen zu
+dem Rande eines Sumpfes hin.
+
+»Schön ist er zwar nicht,« sagte der Komet zu sich, »aber Schönheit ist
+ja nur Geschmackssache, ein bedingter Begriff, der nichts Absolutes
+an sich hat. Das also soll der Herr der Erde sein -- im Reiche der
+Blinden ist ja der Einäugige König -- und die Ammoniten sind dann die
+Fürstinnen des Meeres. Er scheint im allgemeinen auf dem Lande zu
+leben und auf gute Sitten nicht viel Wert zu legen. Er ist einfältig,
+bescheiden und häßlich, mit einem Wort, für die Welt, in der er lebt,
+vollkommen passend. Gleichviel, ich hätte es mir niemals träumen lassen
+mögen, daß es auch solche Schöpfungen geben kann, aber es nutzt nichts,
+es noch weiter leugnen zu wollen. Das Labyrinthodon ist das einzige
+Tier, welches die Macht hat, auf dieser Welt das Zepter zu führen, also
+ist es auch ihr König. Das also ist das erste Auftreten der Majestät!
+Macht geht vor Recht!« Er erging sich in seinem Selbstgespräch noch des
+weiteren in Betrachtungen im Sinne etwa der Darwinschen Lehre von der
+geschlechtlichen Zuchtwahl, aus der folgert, daß der Beweisgrund des
+Stärkeren auch immer der bessere ist.
+
+Durch das Erscheinen dieses irdischen Ungeheuers war unser Komet doch
+einigermaßen aus seiner gewohnten Ruhe gebracht worden, und noch immer
+träumend setzte er seine Rückreise fort, die ihn bis an die Grenzen
+des Sonnensystems führte. Weder bemerkte er hierbei, mit welcher
+Schnelligkeit er selber dahinschoß, noch auch, wie rasch sich die
+Weltkörper, die er unterwegs traf, fortbewegten. Erst als er sich in
+der Nähe des Saturn befand, kam er wieder recht zum Bewußtsein.
+
+Die glänzende Pracht und der Reichtum einer Zivilisation, die
+Jahrhunderte voller Arbeit hervorgerufen hatten, umgaben dieses
+strahlende Gestirn. Auf ihm wohnten die Fruchtbarkeit und der Friede.
+Schon wenn man näher an diese Welt herankam, fühlte man, daß hier das
+Leben wogte. Es war schon unendlich lange her, daß der Saturn aus den
+Finsternissen des Chaos emporgestiegen war und allmählich sich immer
+mehr vervollkommnet hatte. Wie einige jener glücklichen Sterblichen,
+die es wohl verdienten, daß sie den Geist der Natur begriffen und
+in ihre erhabenen Geheimnisse eindrangen, gelehrt haben, steht die
+Entfernung der Planeten von der Sonne mit ihrem Alter in einem
+ursächlichen Zusammenhange. Die entferntesten sind gleichzeitig die
+ältesten und die in ihrer Entwicklung am weitesten vorgeschrittenen.
+
+Neptun, der sechshundertundfünf Millionen Meilen von der Sonne
+entfernt ist, ist vor Milliarden von Jahrhunderten zuerst aus dem
+Sonnennebel hervorgegangen -- Uranus, der sich in einer Entfernung
+von dreihundertsechsundachtzig Millionen Meilen um den gemeinsamen
+Mittelpunkt aller Planeten bewegt, zählt ein Alter von mehreren
+hundert Millionen von Jahrhunderten -- Saturn, dessen Entfernung von
+der Sonne hundertzweiundneunzig Millionen Meilen beträgt, hat an
+seinem ehrwürdigen Haupte auch schon mehr als hundert Millionen von
+Jahrhunderten vorbeiziehen sehen -- Jupiter, dessen ungeheure Masse in
+einer Entfernung von hundertundfünf Millionen Meilen um die Sonne ihre
+Bahnen zieht, ist siebzig Millionen von Jahrhunderten alt. Mars zählt
+tausend Millionen von Jahren; von der Sonne ist er dreißig und eine
+halbe Million Meilen entfernt. Unsere Erde wandert in einem Abstand von
+zwanzig Millionen Meilen um die Sonne und ist aus ihrem glühenden Schoß
+vor hundert Millionen Jahren hervorgegangen. -- Erst fünfzig Millionen
+Jahre mögen es her sein, daß Venus sich von der Sonne getrennt hat;
+in einem Kreise von vierzehn und einer halben Million Meilen bewegt
+sie sich um die Sonne. Nur ein Alter von zehn Millionen Jahren zählt
+Merkur, dessen Entfernung von der Sonne gegen acht Millionen Meilen
+beträgt. Auch er hat in der Sonne seinen Ursprung genommen, dagegen ist
+der Mond ein Kind der Erde.
+
+Unser wanderndes Gestirn war bei allen diesen Schöpfungen zugegen
+gewesen, und besser als jeder andere kannte es die himmlische
+Genealogie, aber wie es ja Personen von großem Wissen immer tun,
+suchte auch es stets, seine Kenntnisse zu vermehren, und sein ganzes
+Leben verbrachte es damit, Beobachtungen anzustellen. Saturn also,
+dessen Bahn der Komet jetzt entlang fuhr, befand sich in voller Blüte.
+Der Segen, den eine unter begünstigenden Umständen vorgenommene Arbeit
+gewährte, machte sich überall bemerkbar. Da sah man Binnenmeere,
+die mit zahlreichen Fahrzeugen bedeckt waren, die, in keiner Weise
+durch das flüssige Element behindert, rasch dahinfuhren; da gab es
+Häfen, in denen die Schätze aller Länder zur Schau gestellt waren.
+Kleinere Schiffe bevölkerten die Flüsse, und das Land war von einem
+engen Netz von Straßen durchzogen, auf denen hohe, prächtige Gefährte
+dahinrollten. In den blauen Lüften sah man eine ganze Flotte segeln,
+und hoch oben von Türmen stiegen weitere Luftschiffe empor, um ihren
+Weg nach den Gipfeln steil abfallender Berge zu nehmen. Hier hatte
+in der Tat der Geist die Materie überwunden, und das Reich der
+Saturnbewohner erstreckte sich von tief unten, vom Boden der Abgründe,
+bis hoch hinauf auf die Gipfel der Berge. Wie in einem unsichtbaren
+Gewebe vereinigten sich die Fäden dieses Organismus an einer einzigen
+Stelle. Betrachtete man diesen Weltkörper von seinen Polen aus, so
+bemerkte man ein ungeheuer großes System von Ringen, die über ihm
+in unermeßlicher Höhe ausgespannt waren, und bis zu denen doch die
+Luftschiffe emporstiegen. Außer der »inneren« Welt auf dem Saturn, wie
+wir sie nennen wollen, gab es noch eine andere, eine »äußere« Welt,
+die von der ersten vierundeinhalbtausend Meilen entfernt war und sich
+fünfundvierzigtausend Meilen weit erstreckte. Nur durch die Luft, die
+Atmosphäre, stand sie mit der »inneren« Welt in Verbindung. Jenseits
+dieser zweiten Welt, die einem Ringe gleich Saturn umschloß, konnte man
+noch acht andere Ringe erkennen, die Kreisen von orange oder grünlicher
+Farbe glichen und sich umeinander drehten. Der Geist und Scharfsinn
+der Saturnbewohner hatte diesen Weltkörper vollständig unter seine
+Herrschaft gebracht, und von seiner »inneren« Welt aus strahlte ihre
+Macht aus, um sich auf ihre »äußeren« Welten zu verbreiten.
+
+Wenn man, unter dem Schatten einer Palme gelagert, die üppige, in
+Farbenpracht erglühende Landschaft Afrikas betrachtet, mag es wohl
+vorkommen, daß man einschlummert und dann plötzlich aus einem düstern
+Traum aufschreckt, um sich inmitten der fruchtbarsten Landschaft zu
+sehen. Ganz ebenso erging es unserem Kometen, als er nach dem Abschied
+von der unansehnlichen Erde von Träumen umfangen, erst in der Nähe des
+prächtigen Saturn erwachte. Er verlangsamte seinen Weg und mit größerer
+Aufmerksamkeit als je vorher betrachtete er diese wunderbare Welt --
+die dadurch entstandene Verzögerung in seiner Umlaufszeit verzeichnen
+die Astronomen des Neptun als »saturnale Störung« --. Und als er an
+diesem großen und schönen Weltkörper vorbeifuhr, da glaubte er wirklich
+aus einem bösen Alpdrücken erwacht zu sein.
+
+Was war die Erde neben diesem prächtigen Stern? Die Erde! Eine winzige,
+unscheinbare Kugel, auf der das Leben sich gerade zu regen begann und
+sich in Formen kleidete, von denen zu reden kaum erfreulich war; eine
+chaotische Masse, deren verschiedene Elemente untereinander vermischt
+blieben, kurz -- ein reines Nichts. Denn als der Komet sich umwandte,
+konnte er bei der ungeheuer großen Entfernung die Erde nur noch
+als einen schwarzen Fleck vor der Sonne erkennen. Das mag es auch
+entschuldigen, daß die Erde bei dem Kometen ins Vergessen geriet und
+daß ihm eine geringfügige Schöpfung, wie es unser Planet damals noch
+war, gleichgültig blieb.
+
+
+
+
+Zweites Kapitel.
+
+Umwälzungen auf der Erde.
+
+
+Die Gleichgültigkeit, die der Komet der Erde gegenüber bewahrte, war
+so stark und andauernd, daß er dreiundzwanzigmal in seine Sonnennähe
+kam, ohne daß er es sich einfallen ließ, auch nur einen einzigen Blick
+auf den kleinen Erdball zu werfen. Und wäre nicht ein ganz merkwürdiges
+Ereignis eingetreten, das ihn ganz ohne seine Absicht zwang, der Erde
+ein wenig Aufmerksamkeit zuzuwenden, so würde er sie wohl noch länger
+unbeachtet gelassen haben.
+
+Als der Komet zum vierundzwanzigsten Male in
+ihre Nähe kam -- es war dies gegen das Jahr
+Fünfhundertvierunddreißigtausendfünfhundertundvierundsechzig vor
+Christi Geburt -- führte ihn sein Weg sehr dicht an der Erde vorbei,
+denn die beiden Gestirne kreuzten sich auf ihren Wegen, und zwar
+so nahe, daß die Erde während fünf Tagen und fünf Nächten in dem
+neblichten Schweife des Kometen blieb. Der Schweif gab dem Kometen
+eine Ausdehnung von achtunddreißig Millionen Meilen, vom Kopfe bis zur
+äußersten Spitze gemessen, und er bildete eine ungeheure Nebelfläche,
+die einige hunderttausend Meilen in der Breite maß. Im allgemeinen
+ist dies die Gestalt des Schweifes der Kometen; die Fläche ist mehr
+oder weniger ausgeweitet und nähert sich bisweilen auch der Fächerform.
+Infolge der großen Abstoßungskraft des Sonnenlichtes ist die Atmosphäre
+von einer außerordentlichen Dünne. Die Hitze löst alle Teile des
+Kometen, die dafür empfänglich sind, und was sich während der langen
+Entfernung des Kometen von dem Feuerherde der Sonne verdichtet hatte,
+verflüchtigt sich. Diese verflüchtigten Teile, die von nur sehr
+geringem Gewichte sind, nehmen aber sehr viel Raum ein und suchen sich
+vom Kern des Kometen, der auf sie eine nur schwache Anziehung ausübt,
+zu entfernen. Wie groß auch ihre Ausdehnung sein mag, ihr Gewicht
+beträgt nicht viel, und man könnte ganz gut ein Stück von der Größe der
+Notre-Dame-Kirche oder der Pariser Sternwarte aus ihnen herausschneiden
+und es wie eine Luftblase verschlucken.
+
+Wir sagten, daß die Erde fünf Tage und fünf Nächte lang in dieser
+Dunsthülle blieb. Man wird vielleicht erstaunt sein, daß nach einer
+solchen Begegnung unser Planet noch existiert, aber noch mehr wird man
+wohl erstaunen, wenn wir erwähnen, daß die zu jener Zeit lebenden Wesen
+von dieser Begegnung gar nichts merkten. Es hätte also wenig Zweck, bei
+diesem Kapitel von der Möglichkeit eines Zusammenstoßes der Erde mit
+einem Kometen lange zu verweilen; wir wollen indessen hören, welcher
+Meinung namhafte Astronomen hierüber sind.
+
+Einer der bedeutendsten[2] unter ihnen glaubte, daß die Kometen viel
+schwerer seien, als man auf Grund früherer Hypothesen bis dahin
+anzunehmen wagte. »Die Meere ergießen sich aus ihren bisherigen
+Becken,« sagte er, »um auf einen neuen Äquator zuzuströmen. Eine
+große Zahl von Menschen und Tieren wird in dieser neuen allgemeinen
+Sintflut ertrinken oder infolge des heftigen Stoßes, dem der Erdball
+ausgesetzt ist, umkommen. Ganze Arten von Tieren werden vollständig
+vernichtet werden. Alle Denkmäler menschlichen Fleißes werden zugrunde
+gehen. Solche unheilvolle Folgen müßte der Zusammenstoß mit einem
+Kometen nach sich ziehen.« -- »Wenn der Schweif eines Kometen mit
+der Erde zusammenträfe«, urteilt ein anderer,[3] »oder wenn ein Teil
+des Stoffes, aus dem sich dieser zusammensetzt, in den Tiefen des
+Weltalls auseinanderginge und infolge seiner Schwerkraft auf die Erde
+herniederfiele, dann würden die damit verbundenen Ausdünstungen bei
+Tieren und Pflanzen recht empfindliche Wirkungen hervorbringen. Denn
+es ist sehr wahrscheinlich, daß Gase, die aus so weit entfernten und
+so seltsam beschaffenen Welten zu uns kommen, die überdies noch im
+höchsten Grade erhitzt sind, für alles, was sich auf der Erde befindet,
+verhängnisvoll werden und dort die größten Verheerungen anrichten
+müßten«. Und ein Dritter[4] meint: »Schon bei der gegenseitigen
+Annäherung zweier solcher Körper müßten sich ohne Zweifel große
+Änderungen in ihrem Laufe vollziehen, sei es, daß diese Änderungen
+durch die gegenseitige Anziehung herbeigeführt würden, sei es, daß die
+Gase, die sich zwischen ihnen befänden, unter zu hohen Druck kämen. Das
+mindeste, was eine derartige Annäherung zuwege bringen müßte, wäre
+eine Verschiebung der Achse und der Pole der Erde. -- Ohne Zweifel
+stellen die Schweife der Kometen ungeheure Ströme von Ausdünstungen und
+Gasen dar, die infolge der Wirkung der Sonnenhitze aus dem festen Kern
+des Kometen entwichen sind. Ein Komet könnte mit seinem Schweif so nahe
+an der Erde vorbeigehen, daß wir in dem feurigen Strom, den er mit sich
+schleppt, ertrinken, oder in der Atmosphäre, die ihn umgibt und die von
+derselben Beschaffenheit ist, umkommen müßten. Bei ihrem Herannahen
+an die Sonne haben einige Kometen einen so hohen Hitzegrad erreicht,
+daß sie erst in fünfzigtausend Jahren sich abkühlen können. Welche
+Wirkung würde diese Hitze nun auf die Erde ausüben? Sie würde in Asche
+zerfallen oder in eine glasige Masse verwandelt werden. Der Schweif
+allein würde die Erde mit einem feurigen Strom überschwemmen und ihre
+sämtlichen Bewohner vernichten, genau so wie ein Haufen Ameisen in
+kochendem Wasser umkommt, das man über ihn gießt.«[5]
+
+Der Engländer Whiston war der erste, der den verschiedenen Kometen
+bestimmte verhängnisvolle Einwirkungen auf unsere Erde zugeschrieben
+hat. Den Kometen von 1680 sah er als die Ursache der Sintflut an
+und er behauptet, daß dieser Komet auf seinem Rückweg von der Sonne
+eines schönen Tages die Erde mit seinen feurigen und todbringenden
+Ausdünstungen überschütten werde und so ihren Bewohnern all das Unheil
+bringen würde, das ihnen für den Jüngsten Tag prophezeit ist; zu guter
+Letzt würde er den allgemeinen Weltenbrand entzünden, der unseren
+Planeten aufzehren müßte.
+
+Anderseits versichert uns Newton, daß ein Komet ohne Kern, wenn er auch
+so groß wäre, daß er von der Erde bis zum Saturn reichte, doch in einem
+Würfel von fünfundzwanzig Millimeter Seitenlänge Platz finden könnte,
+wenn er auf denselben Grad verdichtet würde wie die atmosphärische
+Luft, die wir atmen. Neuere Forschungen über die Masse der Kometen
+haben ein Resultat ergeben, das auch die geringste Beunruhigung
+schwinden läßt. Wenn der größte Komet auf unsere Erde stürzen würde,
+könnte er keine andere Wirkung hervorrufen als etwa eine Mücke, die
+eine Lokomotive aufhalten will, und auch seine Gase können unsere
+Atmosphäre in keiner Weise beeinflussen.
+
+Die Bewohner unserer vorsintflutlichen Welt brauchten aber die
+Begegnung, die ihnen drohte, um so weniger zu fürchten, als sie damals
+noch vollkommen im Wasser lebten und dort ihr Dasein fristeten. Die nur
+unter dem Mikroskop wahrnehmbaren Infusorien, die Fische und Amphibien
+merkten nichts von dem Vorgang.
+
+Für unsere Erde war das Ereignis vielmehr von Vorteil, insofern als
+die Begegnung unseren erhabenen Reisenden aus seiner jahrtausendelang
+dauernden Gleichgültigkeit gegen sie riß. Der Durchgang des Erdballs,
+der nicht weit von seinem Kopfe erfolgte, übte auf seinen Geist,
+wenigstens vom irdischen Gesichtspunkte aus betrachtet, einen recht
+günstigen Einfluß aus. Er geruhte von der Kugel Kenntnis zu nehmen,
+die durch seinen Schweif hindurchpassierte. Man wird es gewiß glauben,
+daß die Erde, der ihre lange Einsamkeit wohl nicht kurzweilig gewesen
+sein mochte, den Augenblick des Durchgangs nicht verschlafen hat; und
+ein seltsameres Schauspiel als jetzt hatte sich dem Auge des Kometen
+noch nie geboten. Zwei steil abfallende Felsen schützten die Einfahrt
+zu einer Halbinsel, und auf diesen, hoch in die Wolken ragenden Felsen
+saßen als bizarre Gruppe zwei wunderlich aussehende, ungewöhnlich
+gebaute Geschöpfe, die sich, ohne eine Miene zu verziehen, unausgesetzt
+scharf ansahen.
+
+Es waren dies der Pterodaktylus und der Ramphorynchus, zwei Arten
+von Fledermäusen in der ungefähren Größe eines Hammels, zwei lebende
+Sphinxe, die mit ihren ausgebreiteten Flügeln Bäumen mit lang
+herabhängenden Blättern glichen. Von diesem Anblick betroffen, rief
+der Komet seine Erinnerungen wach, und es fiel ihm ein, daß er schon
+vor dreiundsiebzigtausendfünfhundertundsechzig Jahren Gelegenheit
+gehabt hatte, diese kleine Kugel und ihre höchst sonderbare Bevölkerung
+wahrzunehmen.
+
+Und er ging nun ernstlich ans Werk, sich die Erde recht genau
+anzusehen. Auf den ersten Blick erkannte er, daß die äußere Gestaltung
+der Oberfläche sich ganz auffallend verändert hatte, daß sich in dem
+großen Ozean, der vorher die ganze Erde bedeckte, nunmehr bereits
+kleine Kontinente gebildet hatten, und daß eine noch immer sehr üppige
+Vegetation ihre Herrschaft über den Erdball jetzt mit einem schon
+ziemlich bedeutenden Tierreich zu teilen hatte. Auch die Gestalt, die
+diesem Tierreich eigentümlich war, fiel ihm sofort auf, und er war
+darüber in nicht geringem Grade erstaunt. Bei seinem letzten Besuche
+hatte er in der Hauptsache nur Muscheln entdecken können, und jetzt
+erregten seine Aufmerksamkeit -- Krokodile, aber Krokodile von jeder
+Gestalt, von jeder Farbe, von jeder Größe. Auf dem Festlande, im Meere,
+hoch in den Lüften, waren Krokodile, Eidechsen und andere Reptilien zu
+sehen, hier solche mit Flossen, dort andere mit Flügeln, kurz, eine
+Unmasse von Krokodilen.
+
+Er ließ seinen Blick forschend auf die Ebene und das Gebirge schweifen
+und die ungeheure Menge der riesenhaften Saurier an seinem Auge
+vorbeiziehen. Da waren die verschiedenen Ichthyosaurusarten, der
+~I. communis~, der ~I. intermedius~, der ~I. platyodon~, der ~I.
+tenuirostris~ usw. usw. Einige maßen dreißig Fuß in der Länge. Ganze
+Herden dieser Reptilien schwammen im offenen Meer wie heutzutage die
+Walfische; oben, an ihrem Kopfe, und zwar wagerecht liegend, trugen sie
+Augen, die einen Fuß lang und so gebaut waren, daß sie nach Belieben
+entweder als Fernrohr oder als Mikroskop benutzt werden konnten.
+Bewaffnet waren sie mit einem vorzüglichen Gebiß, und wenn sich das
+Maul auftat, maß die Öffnung des Rachens mehr als drei Fuß, und es
+zeigten sich zwei Reihen von hundertundachtzig Zähnen. Die Wirbelsäule
+setzte sich bei ihnen aus hundert Wirbeln zusammen und ermöglichte
+ihnen die gelenkigsten und biegsamsten Gliederbewegungen. Er sah ganze
+Scharen von Plesiosauriern sich vom Ufer ins Meer stürzen. Es waren
+dies mit den geschilderten Arten verwandte Reptilien, die aber zu
+gleicher Zeit von der Schlange den unverhältnismäßig langgestreckten,
+dünnen Hals, von den Vierfüßlern den Rumpf und von den Walfischen
+die Flossen hatten. Er sah in gefährlichen Zusammenrottungen die
+furchtbaren Poekilopleurusarten mit ihren gewaltigen Krallen und
+ihren spitzen Zähnen, ferner die Hyleosaurier, die Cetiosaurier,
+die Stenosaurier und die Streptospondylen. Auch die Teleosaurier,
+jene Freibeuter der vorsintflutlichen Meere, bemerkte er. Er sah
+ganze Scharen von Pterodaktylen in die Lüfte aufsteigen, jener
+riesigen Fledermäuse, deren entsetzlicher Rachen sechzig drohende
+Zähne zeigte, und die ihr Leben damit verbrachten, daß sie von einem
+Baum zum anderen, von einem Felsen zum anderen flogen. Auch die mit
+Pflanzen bewachsenen Höhen setzten durch ihr düster-ernstes Aussehen
+den Kometen in recht große Verwunderung. Da waren dicke Stämme von
+großen Schachtelhalmen, langes Schilfrohr, riesenhafte Farnkräuter,
+Nadelhölzer, die unserer Tanne ziemlich ähnlich waren, und schlanke
+Pandangen (~Pandanus~) mit ihren hoch über den Boden aufragenden
+Luftwurzeln.
+
+Beim Anblick dieses mehr unheimlich als schön wirkenden Panoramas
+wurde der Komet nachdenklich. Dreihundertfünfundsechzigmal sah
+er vor seinen Augen die Erde sich um sich selbst drehen, und
+dreihundertfünfundsechzigmal hatte er Gelegenheit, die gesamte
+Erdoberfläche zu überschauen. Da, plötzlich, ertönte ein furchtbares
+Krachen. Auf dem Grunde des Meeres hatte sich die Rinde der
+Erdoberfläche gespalten, und während aus den im Aufruhr befindlichen
+Eingeweiden der Erde wütende Flammen emporschossen, ergoß sich mit
+grauenhaftem Getöse das Meer in einen Abgrund, der sich plötzlich
+aufgetan hatte. Die oben geschilderten Ungetüme wurden von den Wogen
+der mit furchtbarer Gewalt daherströmenden Wasserfluten fortgerissen,
+und wütende Schreie ausstoßend, kamen sie darin um, während die
+geflügelten Reptilien mit unheilverkündendem Gekrächze so rasch als
+möglich durch die Luft zu entkommen suchten. Die Gestade entvölkerten
+sich, und die mit Elektrizität überladene Atmosphäre entlud sich in
+heftigen Blitzschlägen, die die Luft durchzuckten. Bald vermischte sich
+auch das dumpfe Rollen eines bisher noch nie gehörten Donners mit dem
+Toben und Brausen des Unwetters, und es schien, als ob eine ungeheure
+Umwälzung die gesamte Erdoberfläche zerrissen und gespalten hätte.
+
+Unser Komet hatte leider seine Geringschätzung gegen unsere Erde noch
+immer nicht überwunden und er dachte gar nicht daran, unseren Planeten
+ernst zu nehmen. Seit Tausenden von Jahrhunderten war er gewohnt, an
+seinen Augen Welten vorbeiziehen zu sehen, die auf den Pfaden der
+Zivilisation schon weit vorgeschritten waren, wie das mit Neptun und
+Uranus der Fall war, andere, wie Saturn, waren eben auf der Höhe ihrer
+Entwicklung angelangt, und er konnte sie in ihrer ganzen Pracht und
+Herrlichkeit überschauen; wieder andere -- Jupiter gehörte zu diesen
+-- bereiteten sich zu einer großartigen Entfaltung vor, und noch andere
+schließlich -- zu diesen zählte Mars -- befanden sich noch im Frühling
+ihres Lebens. Der Verkehr mit diesen der Erde überlegenen Planeten
+hinderte ihn vorläufig daran, dem Erdball eine gerechte Würdigung
+zuteil werden zu lassen, und so beharrte er in seinem Vorurteil und
+verfiel auch bald wieder in seine frühere Gleichgültigkeit.
+
+Während er noch in seinen Träumereien befangen war, nahm die gewaltige
+Erdrevolution ihren Fortgang. Es erstand die Juraformation; bei ihrer
+Bildung wurden die Fundamente des Erdballs von Grund aus erschüttert,
+und die Erde bebte, als ob sie von einem heftigen Taumel befallen
+worden wäre. Die Meere ergossen sich in die brennenden Tiefen oder
+überströmten Gegenden, die durch die geologische Umwälzung eingesunken
+waren. Aus Quellen, die plötzlich im Schoße der Erde entsprangen,
+stiegen neue Meere auf, und Ebenen krümmten sich empor, ähnlich, wie
+man auf der Oberfläche des im Schmelzen befindlichen Metalls sich
+Luftblasen bilden sieht. Das flache Land machte neuen Gebirgen Platz,
+und dort, wo sich früher Berge und Hügel erhoben, dehnte sich jetzt
+eine kahle oder durch mannigfache Erhebungen unterbrochene Ebene aus.
+So hatte die Oberfläche des Erdballs sich ganz und gar geändert. Der
+Komet hatte auf seinem Fluge durch das Weltall die Erde noch nicht aus
+seiner Sehweite verloren, als ihm klar wurde, daß die Umwälzungen,
+deren Vorspiel für einen Augenblick seine Gedanken abgelenkt hatte, mit
+unvermindertem Ungestüm fortdauerten, und daß für die Erde eine neue
+Schöpfungsperiode begonnen hatte.
+
+Mit einer Schnelligkeit von ungefähr vierzigtausend Meilen in der
+Stunde, oder neunhundertsechzigtausend Meilen an einem Tage, setzte
+der Komet seine Reise fort. Diese Schnelligkeit, mit der er seine
+Reise angetreten hatte, verminderte sich, je weiter er sich von
+seinem Ausgangspunkte entfernte, und drei Monate, nachdem er aus dem
+Bannkreise der Erde entschwunden war, bot sich dem himmlischen Wanderer
+eines der seltsamsten Schauspiele dar. Zu damaliger Zeit kreisten
+zwischen der Umlaufsbahn, die der Mars beschreibt, und derjenigen des
+Jupiter verschiedene Planeten, die ursprünglich einen Ring gebildet
+hatten, der sich in der Zwischenzeit, die zwischen dem Entstehen des
+Jupiter und dem des Mars liegt, von der gemeinschaftlichen Mutter
+aller Planeten, der Sonne, losgelöst hatte. Anstatt nun, wie es bei
+allen anderen Planeten der Fall gewesen war, sich in _eine_ Weltkugel
+umzuwandeln, hatte dieser sonderbare Weltenring eine ganze Menge neuer
+Weltkörper aus sich heraus entstehen lassen, die sämtlich so eigenartig
+und zerbrechlich wie er selbst waren. Wie alle anderen Planeten drehten
+sich auch diese Weltkugeln um die Sonne, wie diese hatten auch sie
+ihre Jahre, ihre Jahreszeiten und ihren Wechsel von Tag und Nacht. Als
+nun der Komet, der über die gewaltsamen Veränderungen auf der Erde
+noch in Nachdenken versunken war und gerade darüber philosophierte,
+welches Geschick wohl einst dem ganzen Weltenall bevorstehen werde,
+sich der Bahn des größten unter diesen kleineren Planeten näherte, kam
+diese immerhin gewaltige Kugel, die sich mit einer Geschwindigkeit von
+neuntausend Meilen in der Stunde vorwärts bewegte, in gerader Linie auf
+ihn losgestürzt; sie mußte auf den Kometen an dem Punkte auftreffen,
+an welchem er ihre Bahn zu kreuzen im Begriffe stand. Ein Zusammenstoß
+schien ganz unvermeidlich -- da, wenige Augenblicke vor der drohenden
+Katastrophe explodierte dieser Himmelskörper wie eine Bombe. Gase
+stiegen auf und verbanden sich mit den im Schweife des Kometen
+vorhandenen, und man konnte sehen, wie etwa zehn einzelne Teile sich
+loslösten und selbständig ihre Reise durch den Weltenraum fortsetzen.
+Es ereignete sich hier ein Weltuntergang, und zwar hatte der zerstörte
+Himmelskörper zweifellos ein frühzeitiges Ende gefunden, das schon
+lange Zeit in seinem Innern wirkende Kräfte mußten hervorgerufen haben.
+Die Katastrophe fand in einer Entfernung von achtundsechzig Millionen
+zweihundertundsechzehntausend Meilen von der Sonne statt. Vielleicht
+haben wir hier den Ursprung jener kleinen, nur durch den Refraktor
+wahrnehmbaren Planeten Ceres, Daphne, Thisbe, Sirona und Arduina zu
+suchen, welche sämtlich 2.77 von der Sonne entfernt sind, wenn man die
+Entfernung der Erde von der Sonne als Einheit nimmt. Es sieht fast
+so aus, als ob diese kleinen Gestirne Jahr für Jahr einmal den Ort
+wiedersehen müssen, an dem jenes furchtbare Naturereignis stattfand,
+das sie für immer trennen sollte.
+
+Hier fand unser Komet seinen Weg nach Damaskus und hier vollzog sich
+in seinem Geiste eine dauernde Wandlung. Hier war es, wo er für die
+Erde jene Sympathie faßte, von der er seitdem stets beseelt geblieben
+ist. Es ist wohl möglich, daß er ohne diese erschütternde Katastrophe
+noch lange in seiner Gleichgültigkeit gegen die Erde verharrt hätte.
+Aber auch bei ihm zeigte sich, was man schon so vielfach beobachtet
+hat: es bedarf nur eines plötzlichen Anlasses, um selbst starke
+Charaktere umzuwandeln. Das Gefühl wohlwollender Anteilnahme, wie es
+im allgemeinen die Mächtigen der Welt den Kleinen entgegenbringen, war
+es, das angesichts dieser Katastrophe schmerzliche Erinnerungen an die
+Erde in ihm wachrief. Einen Augenblick lang fürchtete er auch für das
+Dasein der Erde! Arme Erde! Wenn die furchtbare Umwälzung, die auf ihr
+vor kurzem begonnen hatte, ihr verhängnisvoll werden und sie daran
+zugrunde gehen sollte, bevor sie überhaupt noch geboren war! Wie würde
+sie sich in den schweren Kämpfen behaupten können, die sie noch zu
+bestehen hatte? Ob sie Kraft genug besaß, die Krisis zu überwinden und
+ihr Dasein zu verteidigen? Ob es ihr wirklich beschieden sein mochte,
+für immer solch wilden und grausamen Geschöpfen ungastlichen Aufenthalt
+zu gewähren?
+
+Von diesem Tage an interessierte er sich für die Erde, und ihr
+Schicksal ging ihm um so mehr zu Herzen, je unvollkommener sie in
+ihrer Entwicklung noch war. Oft überraschte er sich dabei, wie sich
+ganz unwillkürlich seine Gedanken mit dieser bescheidenen Schöpfung
+befaßten, und oft zog er, in seinen Gedanken tief bekümmert, an den
+glänzendsten Welten vorbei, ohne diese auch nur eines Blickes zu
+würdigen. Ja, es kam so weit mit ihm, daß ihm seine Reise durch den
+Weltenraum zu lang wurde. Dreitausendunddreiundsechzig und ein halbes
+Jahr von der Erde entfernt zu bleiben und nur höchstens achtzehn Monate
+in ihrer Nähe verweilen zu dürfen, schien ihm ganz außer Verhältnis zu
+stehen. Der kleine Erdball faßte schließlich in seinen Gedanken Platz
+und schien sich dort immer mehr befestigen zu wollen.
+
+Mit Ungeduld erwartete der Komet das Herannahen des Sommers. Der
+Sommer-Sonnenstillstand bedeutet für die Kometen den Zeitabschnitt, in
+dem sie ihren Flug nach ihrem Perihelium richten, d. h. sich wieder
+der Sonne zuwenden und somit auch der Erde wieder nähern. Sobald er
+merkte, daß die Strahlen der Sonne immer wärmer wurden, und sehen
+konnte, wie ihre Scheibe sich mehr und mehr vergrößerte, wußte er
+auch, daß das Ende des Frühlings gekommen war. Kaum wurde er der
+Erde wieder ansichtig -- und zwar sah er sie bald vor der Sonne in
+Gestalt eines schwarzen, runden Fleckes, in Form einer Mondsichel oder
+eines Halbmondes, bald auf der rechten, bald auf der linken Seite des
+leuchtenden Gestirns -- als er auch mit Wohlbehagen merkte, wie seine
+Geschwindigkeit zunahm und er seinem sehnsüchtig erstrebten Ziele immer
+näher kam. In seinem schnellen Laufe erreichte er endlich die Erde,
+die er immer mehr liebgewinnen sollte, und schon am ersten Tage seiner
+Ankunft unterzog er seine kleine Welt einer genauen Betrachtung.
+
+Er beobachtete das Erwachen der Tierwelt während der ganzen
+Sekundärzeit, von der Jura- und Liasperiode bis in die letzten
+Abschnitte der Kreidezeit. In einem Zwischenraume von dreitausend zu
+dreitausend Jahren konnte er verfolgen, wie die verschiedenen Arten,
+sowohl der Tier- als auch der Pflanzenwelt, sich langsam aber stetig
+weiter entwickelten. Da der Komet sich allmählich an die Umwälzungen,
+unter denen sich neue Ereignisse zu vollziehen pflegten, gewöhnt hatte;
+da er Zeuge gewesen war, wie große Fluten von Grund aus einzelne
+Teile der Erdoberfläche umgewandelt hatten; da er gesehen hatte, wie
+Kämpfe im Innern der Erde sich in Vulkanausbrüchen Luft machten, und
+wahrgenommen hatte, wie Gebirgsketten sich aus der Ebene erhoben und
+die Erdoberfläche bereits anfing, die Gestalt zu erhalten, die ihr in
+Zukunft eigentümlich sein sollte, wurde er auch allmählich ruhiger und
+fürchtete für die Erde die Folgen dieser Naturereignisse nicht mehr.
+Er glaubte schließlich, daß sie nur Konsequenzen eines unbekannten
+Gesetzes wären, und gewissermaßen Prüfungen, die der Erdkugel nur
+zum Nutzen gereichen könnten. So verfolgte er von einem seiner Jahre
+zum andern, wie sich das kleine irdische Kind in seiner Wiege weiter
+entwickelte.
+
+Die Wahrheit zwingt uns jedoch, nicht unerwähnt zu lassen, daß die
+liebende Sorgfalt des Kometen für die Erde doch noch einmal eine kleine
+Einbuße erlitt. Die Ursache davon war allgemeiner Art, und es lohnt
+sich wohl der Mühe, einen Augenblick dabei zu verweilen: Es war die
+Tatsache, daß der Umgang mit den Großen unsere Sympathien sehr leicht
+zum Nachteil der Kleinen beeinflussen kann. Den schöneren, oder sagen
+wir nur den größeren Teil seines Lebens verbrachte der Komet in der
+Gesellschaft der Patrizier des Sonnensystems, und ohne daß er es selber
+wußte, wurde er von ihrer Gesinnung angesteckt und selbst ein wenig
+hochmütig. Sein Interesse für die Erde hielt sich während ungefähr
+vierzigtausend Jahren auf derselben Höhe, dann aber geschah es, daß
+er, ganz unbewußt, die schöne Jahreszeit mit geringerer Sehnsucht
+erwartete. Er hatte sich an den Anblick, den ihm die Erde bot, gewöhnt,
+und er teilte seine Aufmerksamkeit jetzt zwischen ihr und den anderen
+Planeten. Wenn er an diesen vorüberflog, betrachtete er sie genau,
+und von neuem stellte er Vergleiche mit der Erde an, die für diese
+nicht vorteilhaft ausfielen. Zwanzigtausend Jahre lang blieb es so,
+und schon konnte man befürchten, daß die höheren Weltkörper wieder
+die vorherrschende Stellung in seinem Geiste erlangen würden, die
+sie früher darin eingenommen hatten. Aber die Erde schritt in ihrer
+Entwicklung rascher vor, als jene es taten, denn sie war noch jünger,
+und als zur Tertiärzeit die Oberfläche der Erde sich wieder vollkommen
+veränderte, wandte ihr der Komet wieder seine ungeteilte Gunst zu,
+an der er eine kurze Zeit die anderen planetarischen Welten hatte
+teilnehmen lassen.
+
+
+Fußnoten
+
+[2] Laplace.
+
+[3] Gregory.
+
+[4] Maupertuis.
+
+[5] Es scheint fast so, als ob M. de Maupertuis hier in das Gebiet
+des reinen Romans geraten sei, denn wer erinnert sich dabei nicht an
+das seltsamste Phantasiegemälde dieser Art, an die »Unterhaltung von
+Eiros mit Charmion«, eines der originellsten Gebilde jenes originellen
+transatlantischen Erzählers? Die Begegnung des Kometen mit der Erde
+hatte zum Glück keinen so schrecklichen Verlauf. Unser Komet war
+huldvoll genug, ihre Bewohner nicht zu vergiften, dagegen hätte der von
+Edgar Poe ihr Dasein vollständig vernichtet, wie er auch, wenn wir dem
+phantastischen Dichter folgen, an jener seltsamen Agonie die Schuld
+trägt, in welche die Erde versank.
+
+»Der gefürchtete Komet kam immer näher, seine rote Scheibe wurde
+zusehends größer und nahm auch an Glanz zu. Bei seinem Herannahen
+erblaßte der Geist der Menschheit und alles menschliche Tun und Treiben
+hatte sein Ende erreicht.
+
+Auch dem Tapfersten unseres Geschlechtes schlug das Herz heftig in der
+Brust. Dieses _neue_ Meteor war keine astronomische Erscheinung mehr,
+sondern es war vielmehr ein Alp, der allen auf der Brust lag, ein
+Schatten, der das Gehirn verfinsterte. Mit einer Schnelligkeit, die das
+menschliche Fassungsvermögen übersteigt, hatte er das Aussehen eines
+ungeheuren leuchtenden Flammenmantels angenommen, der in seiner ganzen
+Länge am Himmel ausgespannt war.
+
+Noch einen Tag -- und die Menschheit atmete viel freier. Es war
+zweifellos, sagt der Augenzeuge, daß wir bereits unter dem Einflusse
+des Kometen standen, und doch lebten wir immer noch. Ja, wir erfreuten
+uns sogar einer viel größeren Elastizität der Glieder und einer ganz
+außergewöhnlichen geistigen Spannkraft. Aber auch die Vegetation
+hatte sich zur selben Zeit ganz merkwürdig verändert. Alle Pflanzen
+entfalteten wie durch einen Zauberspruch eine so wunderbare Blüten- und
+Blätterpracht, wie sie vorher noch nie gesehen worden war.
+
+Aber auch noch eine andere, höchst seltsame Erscheinung griff bei
+allen Menschen Platz: die erste Empfindung des _Schmerzes_ gab das
+Zeichen zu allgemeinem Wehklagen und Schrecken. Dieser Schmerz äußerte
+sich in einer heftigen Zusammenziehung der Brust und der Lungen und
+in einer fast unerträglichen Trockenheit der Haut. Es ließ sich
+nicht mehr leugnen, daß die Luft ganz und gar infiziert war. Als die
+wissenschaftliche Forschung dies bestätigte, ging mit Blitzesschnelle
+ein Schaudern, das sich bald in furchtbarsten Schreck verwandelte,
+durch das Herz jedes fühlenden Menschen.
+
+Die Luft verlor ihren Gehalt an Stickstoff ... Dagegen vermehrte
+sich in ganz auffallender Weise ihr Gehalt an Sauerstoff, dem
+Haupterfordernis zum Atmen und zum Leben. Der Komet war da und das war
+seine Wirkung. Die Überreizung der Lebensgeister und die Pracht, die
+die Pflanzenwelt entfaltete, waren die ersten Symptome. Wenn aller
+Stickstoff der Luft entzogen war, dann mußte eine unabänderliche, alles
+sofort vernichtende Verbrennung aller Dinge auf Erden stattfinden, der
+auf keine Weise zu entrinnen war.
+
+Der letzte Tag des Lebens ... Wir atmen eine Luft, die sich zusehends
+ändert. Das Blut strömt ungestüm in seinen engen Gefäßen. Eine
+wahnsinnige Wut bemächtigt sich aller Lebenden, die geballte Faust
+strecken sie dem zürnenden Himmel entgegen und vor Angst zittern sie
+und schreien heftig ... Einen Augenblick lang erscheint plötzlich
+ein seltsames, unheimliches Licht, das überallhin dringt und alles
+beleuchtet ... Dann läßt sich ein schriller, durchdringender Donner
+vernehmen, als ob der Herr selbst gesprochen hätte -- und die ganze
+gewaltige Menge der Luft, die uns umgibt, in der wir lebten, hatte sich
+mit einem Schlage in ein furchtbares Feuermeer verwandelt ...«
+
+So Edgar Poe. Schon die bloße Erzählung einer derartigen Katastrophe
+macht uns schaudern. Aber unser Komet ist nicht so gefährlich. Er ist
+ein ehrsamer Reisender, der nur Land und Leute sehen will und der uns
+in seiner Begleitung eine wirkliche »Reise um die Welt« machen läßt,
+gegen die eine Reise um die irdische Welt ein wahres Kinderspiel ist.
+
+
+
+
+Drittes Kapitel.
+
+Morgenröte der Erde.
+
+
+Wie klein der Erdball auch immer war und welch bescheidene Stellung er
+auch in der unendlichen Schöpfung einnehmen mochte, so zeigte er sich
+doch recht wohl der Beachtung würdig, mit der ihn unser Komet beehrte.
+Nicht immer machen Gestalt und Größe den Wert eines Geschöpfes aus,
+sondern das Geschöpf selbst als Erzeugnis einer unendlichen Macht
+trägt an der Stirn das Siegel seines göttlichen Urhebers. Der kleinste
+Gegenstand, den die Natur geschaffen hat, ist so wunderbar wie der
+größte; die Allmacht, die ihn ins Leben gerufen, hat ihn für immer
+gezeichnet, und so sehen wir auch, daß sich in einem Wassertropfen
+das Sonnenlicht ebenso leuchtend spiegelt wie in dem großen Ozean.
+Auf seinen langen Wanderungen hatte sich unserem Weltreisenden diese
+Beobachtung schon längst aufgedrängt, und wenn er sich seinen Gedanken
+überließ und die auf seiner Reise gewonnenen Eindrücke geistig
+verarbeitete, dann konnte er nicht umhin, auch der Erde den Platz
+anzuweisen, der ihr durch den Adel ihrer Geburt zukam.
+
+Was die Erde betrifft, so zeigte auch sie allmählich, von welch
+vornehmer Herkunft sie war. Ganz unmerklich zog sie ihre Kinderschuhe
+aus und entledigte sich ihrer ungestalteten Formen, um schönere dafür
+einzutauschen. Sie strebte nach Zierlichkeit der Erscheinung. Früher
+zeigten Pflanzen und Tiere ein rohes, unförmliches Aussehen und boten
+dem Auge wenig Reiz; die Bäume, von schwermütigem Charakter, hatten
+weder Blüten noch Blätter, die Tiere mußten des wärmenden Pelzes, der
+schützenden Wolle, des Federkleides entbehren, und auch sie hatten
+noch keinen Schmuck angelegt. Aber zu der Zeit, die wir jetzt erreicht
+haben, konnte man bei den Pflanzen bereits Blüten und Blätter, bei den
+Tieren schon prächtig gefärbte Bekleidungen erkennen. Die Familie der
+Proteazeen wies in den verschiedenen Banksia-Arten bereits großartige
+Pflanzen mit schöngestalteten fruchttragenden Zweigen auf.
+
+Unter den Mimosoideen gab es schon Akazien und andere Pflanzen, die
+man heute nur noch im fernen Australien findet, dessen Pflanzen-
+und Tierwelt ja noch vielfach an die der Urwelt erinnert. Birken,
+Buchen, Nußbäume, Erlen erhoben sich neben Palmen, Tannen, Zypressen
+und Eibenbäumen, und die Arten waren nicht wie heutzutage durch
+die Schranken geographischer Verbreitung voneinander getrennt.
+In den Sümpfen, auf den Teichen und in den Flüssen sah man noch
+Schachtelhalme und Wasserkastanien; aber die riesigen Blumen aus der
+Familie der Nymphäazeen bedeckten bereits die Oberfläche der stehenden
+Gewässer mit ihren schönen Blüten.
+
+Für welches Auge waren diese Schönheiten der Erde in ihrer Jugendblüte
+geschaffen? Für welche Ohren war der Wohlklang, der die Natur im
+Brausen der Wellen und im Rauschen der Blätter erfüllte, bestimmt?
+Für wen boten die schattigen Wälder lauschige Schlupfwinkel, für wen
+eröffneten sich die herrlichen Ausblicke, für wen breiteten sich diese
+Pflanzenteppiche, die ein wechselvolles Licht mit schönen Mustern
+verzierte, aus? Wer erfreute sich an der Sternenpracht der stillen
+Nächte, die der Mond mit seinem ruhigen, silbernen Schein erleuchtete?
+Für wen diese erhabene Pracht? Für wen dieser strahlende Himmel,
+diese grünenden Ebenen, das Flüstern des sich zu natürlichen Lauben
+verdichtenden Blätterwerkes, diese prächtigen Schauspiele, die Wasser
+und Land unausgesetzt boten? Für wen die Sonne am Tage und die Sterne
+in der Nacht, der blaue Himmel, die vielfarbigen Wetterwolken, die
+goldene Pracht der Dämmerung, das Hervorbrechen des Regenbogens und der
+Fall der Meteore? ... Für wen schuf die Natur diese ungeheure Arbeit?
+... Verständige oder mit Vernunft begabte Wesen waren auf der Erde noch
+nicht erschienen.
+
+Das Land, das heute von der Zivilisation beherrscht wird, die Gegend,
+in der Frankreichs glänzende Hauptstadt sich erhebt, war damals noch
+mit Wasser bedeckt. Noch nichts ließ die Gestalt erkennen, in der sich
+Frankreich heute unserem Auge darbietet. Nur große Seen und Halbinseln
+nahmen seine Stelle ein. Das Meer erstreckte sich über Paris hinaus,
+bis nach Bourges; von Valenciennes bis nach Saint-Lô konnte man an
+seinen Ufern entlang die unregelmäßige Kette der Kreideformation
+verfolgen. Während der Juraformation hatte sich bereits die Hochebene
+von Langres gebildet und beherrschte das eben genannte Meer. Die Berge,
+die sich mit ihren schwarzen Zinnen über Langres erheben, dieselben,
+auf denen Cäsar seine Wachtfeuer entzündete, die Bergeshöhlen, in
+denen sich Sabinus vor dem Zorn des römischen Adlers verbarg, diese
+ehrwürdigen Gipfel wachten schon über den Wogen des vorsintflutlichen
+Meeres. Die alte Auvergne und Bretagne zur Linken und die Alpen zur
+Rechten sind in den fernen Jahrhunderten der Primärzeit aus den Wassern
+entstanden. Dagegen schlief zu der Zeit, von der wir sprechen, die
+Gegend von Lyon, Tours, Dünkirchen noch auf dem Grunde des Meeres, und
+erst während der Tertiärzeit erhob sich das Land, auf dem die genannten
+Städte stehen, wenn auch nicht zu ewiger, so doch wohl zu einer recht
+langen Dauer.
+
+Nach der Reihenfolge ihres Erscheinens auf der Erde traten die
+Vorfahren der verschiedenen Arten unserer heutigen Tierwelt in deutlich
+zu erkennenden Entwicklungsstufen hervor. Auf die ausschließlich im
+Wasser lebenden Tiere waren die im Wasser und auf dem Lande lebenden
+Amphibien gefolgt, nach diesen kamen Geschöpfe, die nur für das
+feste Land bestimmt waren; wieder ein Hinweis darauf, daß es in der
+Natur keinen Zufall gibt, und daß die Reihenfolge und Entwicklung
+der Arten durch ewige, unabänderliche Gesetze bestimmt wird. Von
+den vierfüßigen Säugetieren erschienen zuerst die Dickhäuter: das
+Palaeotherium, das Anoplotherium, das Xiphodon, Geschöpfe, die ihrer
+Gestalt nach eine Zwischenstufe zwischen dem Rhinozeros, dem Pferde
+und dem Tapir einnahmen. Das erstgenannte, das etwa so groß wie ein
+Pferd sein mochte, hatte vom Tapir den Kopf, der in einen fleischigen
+Rüssel auslief, kleine, ausdruckslose Augen und kurze, plumpe Beine.
+Im Gegensatz zum Palaeotherium hatte das Anoplotherium lange Beine
+und dazu noch einen mehr als einen Meter langen Schwanz, der ihm beim
+Durchschwimmen von Seen oder Flüssen als Ruder diente. Das Xiphodon
+endlich ähnelte mehr unserer heutigen Gemse und war, wie diese,
+zierlich gebaut, furchtsam und schnellfüßig. Neben ihnen tummelten
+sich noch andere Arten, so das Lophiodon, das in seinen verschiedenen
+Abarten auch die verschiedensten Formen zeigte und in seinen Maßen
+von der Größe des Kaninchens bis zu der des Rhinozeros variierte, der
+Chiropotamus, der die Flüsse bewohnte. Das Meer, über dessen Wellen von
+Zeit zu Zeit der Mosasaurus sein furchtbares, drei Fuß langes Gebiß
+fletschte, bevölkerten friedliche Wale, die Delphine waren seine Könige.
+
+Wenn wir uns in die damalige Zeit zu versetzen suchen, so wird uns die
+eigenartige Formenwelt wundernehmen, die unsere Erde in jener Epoche
+noch zeigte; sie bewahrte noch viel von dem fremdartigen Charakter,
+der uns bei der Betrachtung der früheren Perioden so sehr in Staunen
+gesetzt hat.
+
+Es war gerade zur Zeit des Beginnes der letztgeschilderten Periode, der
+Eozän-Zeit, als der Komet wieder die Erde erreicht hatte, und es bot
+sich ihm jetzt Gelegenheit, die irdische Landschaft in der Fülle ihrer
+Entwicklung und ihrer Fortschritte zu betrachten. In diesem Schauspiel
+offenbarte sich ihm das Gesetz der Bestimmung, und er mutmaßte, daß
+ein höherer, unbekannter Wille die Bildung dieser kleinen Welt leite
+und sie zum Aufenthalt für irgendein neues Wesen, das würdig sei, das
+Zepter einer Welt zu führen, vorbereite.
+
+Die reine Luft erlaubte es der Sonne, ihre fruchtspendenden Strahlen
+mit vollen Händen über die Erde auszuschütten; aus den stillen und
+friedlichen Gewässern leuchtete der blaue Himmel; Tausende von
+Pflanzen schaukelten ihren grünenden Stengel in den Lüften und die
+ersten Blumen, die am Rande der Gewässer standen, spiegelten sich in
+ihren Wellen wieder. Zahlreiche Herden weideten auf dem Lande und
+die fröhlichen Bewohner der Luft nahmen zu höheren Regionen ihren
+Aufschwung. Überall lachte das Leben. Schon traten die Unterschiede
+der verschiedenen Jahreszeiten deutlich hervor, und der Komet erkannte
+bereits, daß die Einrichtungen der Erde sich allmählich denen höher
+organisierter Welten näherten. Wie alle Kometen hatte auch er in
+seiner Bahn die größtmöglichste Hitze und die alleräußerste Kälte zu
+ertragen. Kam er in seinem glühenden Sommer ganz nahe an die Sonne
+heran, so entfernte er sich in seinem Winter so weit von ihr, daß
+dieser tausendmal kälter war als der Winter auf der Erde. In seiner
+Selbstlosigkeit war er daher stets erfreut, wenn er Welten begegnete,
+die es in dieser Beziehung besser als er hatten.[6] Die Erde befand
+sich in der glücklichen Lage der Planeten. Das war ein Umstand, der
+sie in den Augen des Kometen an die andern, höher organisierten Welten
+näher heranrückte, und mit einem gewissen freudigen Gefühl merkte er,
+daß sein Interesse für die Erde noch immer wuchs. Die Stellung, die er
+in seinem Geiste ihr einzuräumen hatte, wurde ihm immer deutlicher.
+
+Die zwar langsamen, aber doch recht merklichen Fortschritte, welche
+die Erde in ihrer Entwicklung machte, gewährten unserem reisenden
+Gestirn Freuden, die ihm bis dahin unbekannt geblieben waren. Als der
+Komet einmal auf seinem Fluge durch die Welt wieder der Sonne sehr
+nahegekommen war, entdeckte er, daß zwischen Erde und Sonne noch zwei
+andere Planeten schwebten, nämlich Venus und Merkur. Er wollte seine
+Aufmerksamkeit nicht durch diese neuen Welten ablenken lassen und sich
+lieber das Vergnügen, das die Beobachtung der ersten Stufen ihrer
+Entwicklung ohne Zweifel gewähren mußte, versagen, als ihretwegen die
+ihm liebgewordene Erde vergessen; er zog es vor, die neuen Welten ganz
+zu übersehen, wie sie ja auch früher für ihn nicht vorhanden waren.
+Als er ein anderes Mal nahe an Mars vorbeizog, fiel ihm auf dieser
+Weltkugel eine ganz ähnliche Schöpfung, wie er sie auf der Erde gesehen
+hatte, auf, was einem Touristen eigentlich denselben Grund zur Neugier
+hätte bieten müssen. Aber wie er es mit Venus und Merkur gemacht hatte,
+so hielt er es auch mit Mars: er ließ ihn unbeachtet einsam seines
+Weges ziehen. Nur mit dem Erdball beschäftigte er sich, wenn ihn seine
+Bahn in die Gegenden führte, in denen sich unsere Erde bewegt. Aus
+dieser beiläufigen Bemerkung mag man erkennen, wie sehr er von seiner
+früheren Gleichgültigkeit gegen uns zurückgekommen war, und daß er in
+Zukunft alles sehr aufmerksam verfolgte, was die Erde betraf.
+
+Es war zur Zeit seiner hundertsten Reise -- wenn man die, die wir zu
+Beginn unserer Erzählung erwähnt haben, als erste zählt -- das heißt
+um das Jahr Dreihundertundviertausendsechshundertneunundachtzig, als
+er Zeuge des Vorspiels war, mit dem sich die große geologische Epoche
+einführte, die derjenigen, in der wir uns befinden, vorangegangen ist.
+Fünfzigtausend Jahre später konnte er sehen, wie jener Abschnitt in
+der Entwicklungsgeschichte der Erde -- die Eozänformation -- sein Ende
+erreichte. Zweihunderttausend Jahre vor Beginn unserer Zeitrechnung
+nahm dann die Periode, der man den Namen Miozänformation beigelegt hat,
+ihren Anfang.
+
+Aurora! Morgen des Lebens! Leuchtender Anfang! Später mögen die Formen
+des Erschaffenen wohl eine ausgesuchtere Eleganz, eine vollkommenere
+Schönheit angenommen haben, aber in dieser Frühlingszeit fühlt man
+es fast, wie in den Pflanzen der Saft aus der Wurzel emporsteigt und
+bis in die Spitze des Stengels dringt. Später wird der nie ruhende
+Fortschritt sein Werk vollenden: jetzt aber stehen alle Kräfte der
+Natur in ihrer größten Fülle und erwecken so viel frohe Hoffnungen für
+die Zukunft, wie dies keine spätere Zeit mehr tun kann.
+
+Wenn man sich das Weltgebäude als eine riesenhafte Uhr vorstellt,
+auf der eine Sekunde ein Erden-Jahrhundert bedeutet, und wenn man
+sich vergegenwärtigt, daß ein _Tag_ der Erde, im astronomischen Sinne
+gedacht, Tausende von Jahrhunderten umfaßt, dann wird man nicht mehr
+erstaunen, daß die Morgenröte eines solchen Tages nach gleichem Maße
+zu messen ist und daß sie sich über eine lange Reihe von Jahrhunderten
+erstreckt haben muß. Die Zeiten, nach denen wir die einzelnen
+Abschnitte unseres geschichtlichen Lebens rechnen, sind im Leben der
+Natur ein reines Nichts. Ein Jahrhundert geht an ihrer ewigen Jugend
+spurlos vorüber, und zehn, auch hundert Jahrhunderte rufen auf ihrer
+Stirn noch keine Altersfalte hervor.
+
+Wie die Kometen im allgemeinen, so befand sich auch unser Komet in
+einer viel günstigeren Lage, die ersten Jahre eines Weltkörpers,
+die nach Jahrtausenden zählen, zu messen, als es uns Erdenbewohnern
+vergönnt ist. Das Jahr unseres Kometen ist ja mehr als dreitausendmal
+so lang als eines von unseren Jahren, und dadurch hat er einen immerhin
+recht brauchbaren Anhalt, der ihm als Maßstab für die Dauer der
+verschiedenen Entwicklungsperioden der Erde dienen kann.
+
+Trotz dieser langen Intervalle zwischen seinen Reisen, die zwar
+unseren Augen ungeheuer groß erscheinen, bei der unendlichen Dauer
+der himmlischen Körper aber recht klein sind, kam es doch vor, daß
+der Komet bei einem neuen Besuche die Änderungen, die sich auf der
+Erde seit seiner letzten Anwesenheit vollzogen hatten, nicht wahrnahm,
+denn die Umwälzungen auf der Erde gingen, wie gesagt, langsam vor
+sich; oft wollte es ihm scheinen, als sähe er dieselben Gegenden,
+dieselben Landschaften, dieselben Pflanzen und Tiere, die er schon
+vor dreitausend Jahren und früher gesehen hatte, ja er mochte sogar
+glauben, daß er dieselben Individuen, die er damals erblickt, noch in
+vollster Kraft und in demselben Alter vor sich habe. Wenn das schon bei
+der langen Dauer seines Jahres so war, wie würde es erst gewesen sein,
+wenn er eine kürzere Umlaufszeit gehabt hätte? Bei aller Anstrengung
+würde es ihm wohl niemals möglich geworden sein, sich ein genaues Bild
+von den verschiedenen Stadien der Schöpfung zu machen.
+
+Zu diesen, der Natur des Kometen eigentümlichen Vorzügen traten aber
+für unseren Helden noch andere, nicht minder wichtige hinzu: nämlich
+die ihm gegebene Möglichkeit, fortwährende Vergleiche zwischen der Erde
+und den anderen Planeten anzustellen.
+
+Die Entfernung der Planeten von der Sonne steht ja im Verhältnis zu
+ihrem Alter. Die älteste Welt unseres Systems ist Neptun, die jüngste
+Merkur. Als der Komet zum erstenmal in unserem Sonnensystem erschien,
+waren die älteren Planeten bereits bewohnt; es war ihm nicht vergönnt,
+Zeuge zu sein, wie sich auf ihnen das Leben bildete.
+
+Neptun, der älteste und von uns am weitesten entfernte Planet, hatte
+bereits die Höhe seiner Entwicklung überschritten. In den entlegenen
+Gegenden des Weltenraumes, in denen er seine Bahn wandelt, würde unsere
+Erde rasch erstarren und zu Eis erkalten; nicht so Neptun, den, wie
+alle anderen Welten, die gütige Natur so geschaffen hat, daß seine
+Eigenschaften in vollster Harmonie mit seinen Daseinsbedingungen
+stehen. Er zieht seine Kreise um die Sonne in Jahren, von denen eines
+so groß ist wie hundertvierundsechzig Erdenjahre.
+
+Uranus, der jüngeren Datums ist, befand sich gerade im Mittag seines
+Lebenstages. Dort herrschte ein anderes Leben unter anderen Formen
+und nach anderen Gesetzen -- ein Leben, das mit dem auf dem Neptun
+vorhandenen gar keine Ähnlichkeit hatte und auch von dem auf den
+anderen Planeten grundverschieden war. Uns hiervon eine Vorstellung
+zu machen, ist ganz unmöglich, denn selbst unsere kühnste Phantasie
+ist nicht imstande, sich mit Vernunft begabte Wesen vorzustellen, die
+anders als wir organisiert sein sollen, sie vermag es nicht, sich
+unbekannte Formen vorzustellen. Um die Welt des Uranus kreisten in
+rückläufiger Bewegung vier Monde, die, gleich ihrem Regenten, ihre
+erste Jugend schon lange als vergangene Zeiten betrachten durften. Ein
+Jahr des Uranus umfaßt vierundachtzig Erdenjahre.
+
+Wie wir früher bereits gesehen haben, stand Saturn in seiner schönsten
+Blüte und vervollkommnete sich immer mehr. Damit soll aber keineswegs
+gesagt sein, daß seine Bewohner mit großen Schritten der Höhe
+entgegeneilten, auf der die Bewohner des Uranus bereits angekommen
+waren. Dies würde in keiner Weise das Richtige treffen; denn was
+für eine Welt die Vollendung darstellt, ist es noch keineswegs für
+eine andere, und in der langen Geschichte der Gestirne gibt es keine
+Epoche, in der man etwa die verschiedenen Welten in eine bestimmte
+Reihe gliedern und jeder Welt eine bestimmte Nummer in dieser Reihe
+anweisen könnte. Jede Welt hat ihre eigene Bestimmung und verfolgt
+ihr eigentümliche Mittel, um diese Bestimmung zu erreichen. Bei den
+Bewohnern des Saturn ist ein Jahr dreißigmal so lang als bei uns, und
+ihr Kalender hat die Umlaufszeit von zehn Monden mit zu berücksichtigen.
+
+Jupiter befand sich noch in vollster Jugend und strotzte von Kraft
+und Leben. Man konnte ohne große Mühe erkennen, daß er das Stadium
+der Entwicklung, in dem sich die Erde gerade jetzt befand, schon seit
+langer Zeit durchgemacht hatte, daß aber seine Lebensäußerungen mit
+einer immer noch ziemlich beträchtlichen Langsamkeit vor sich gingen.
+Während die Erde zwölf Jahre zurücklegte, vollendete er erst ein Jahr,
+und noch immer herrschte auf ihm beständiger Frühling, obwohl die
+verschiedenen Jahreszeiten auf seiner Oberfläche bereits ihr Erscheinen
+zu erkennen gegeben hatten; acht Monde drehten sich rasch um ihn.
+
+Schon bevor der Komet die Erde zum erstenmal gesehen hatte, hatte er
+diese Beobachtungen bereits gemacht, und es unterliegt keinem Zweifel,
+daß hierin der Grund für seine anfängliche Geringschätzung der Erde
+zu suchen ist. Was ihm aber bei seinen Wahrnehmungen am meisten
+aufgefallen war und wohl auch dazu beigetragen hatte, sein Vorurteil
+gegen die Erde immer mehr zu bestärken, das war die Kleinheit unseres
+Planeten im Verhältnis gerade zum Jupiter. Es wollte ihm scheinen,
+als sei die Erde nur ein vom Jupiter losgelöster Mond, und er war
+lange Zeit nicht geneigt, sich eines Besseren belehren zu lassen. In
+der Tat muß ihm ja zugegeben werden, daß der Kontrast zwischen den
+Größenverhältnissen des Jupiter und der Erde ungeheuer ist. Nicht
+weniger als elfmal ist der Durchmesser des Jupiter größer als der der
+Erde, und dementsprechend mißt seine Oberfläche hundertundzwanzigmal
+mehr und beträgt sein Körperinhalt dreizehnhundertmal mehr als der der
+Erde!
+
+Mars befand sich um jene Zeit in einer ähnlichen Lage wie die
+Erde. Obgleich er ihr älterer Bruder ist, war er doch nicht rasch
+vorgeschritten, vielmehr war er in seiner Entwicklung aufgehalten
+worden. Als später der Komet die Erde zum Gegenstand seiner Forschungen
+gemacht hatte, beschränkte er sich nur auf sie, und es wäre ihm schwer
+gefallen, seine Aufmerksamkeit zwischen der Erde und einem anderen
+Gegenstand zu teilen, wenn ihm dieser nicht etwas weit Interessanteres
+dargeboten hätte. Die Erde blieb das Objekt seiner Gedanken.
+
+Der Mond war damals von dem kleinen Volk der Seleniten bewohnt. Man
+wird es leicht glauben, daß diese Welt in der Tat zu klein war, um
+das Interesse des erhabenen Reisenden für längere Zeit in Anspruch zu
+nehmen.
+
+Trotz der unserer Erde in so hohem Maße entgegengebrachten Neigung
+des Kometen, hätte doch beinahe ein Ereignis, wie es im Leben eines
+jeden eines Tages vorkommen kann, diesen seinen so beharrlichen und
+lehrreichen Beobachtungen ein Ende gemacht. Auch bei den Bewohnern des
+Weltenraumes gibt es gewisse Vorgänge, die man mit solchen bei den
+Erdenbewohnern in Parallele stellen kann. Wir müssen einen Augenblick
+bei einem derartigen Ereignis verweilen, denn es kommt ihm immerhin
+eine gewisse Bedeutung zu: wir sprechen nämlich von einer Art ehelicher
+Verbindung des Kometen.
+
+Schon seit siebenundzwanzigtausend Jahren hatte ein prächtiges
+Meteor, das mit schönster Form einen Farbenglanz von reinstem Wasser
+verband, von weitem in den Gefilden des Himmelsraumes den Schweifstern
+daherziehen sehen. Die Einsamkeit macht nachdenklich, und man wird
+es daher glaubhaft finden, daß sich das Meteor in seiner Einsamkeit
+zu dem Gestirn mit den langen goldenen Haaren hingezogen fühlte.
+Siebenundzwanzigtausend Jahre lang näherte sich, infolge des Gesetzes
+der allgemeinen Schwerkraft, die Bahn dieses Meteorsteines, der zu
+den größten seiner Gattung gehörte, immer mehr der des Kometen.
+Bemerkt sei hierbei, daß diese großen Meteorsteine ganz ebenso wie
+die Kometen ihre Bahnen um die Sonne ziehen. Je näher er an den
+Kometen herankam, desto rascher flog er auf ihn zu, und zuletzt schoß
+er mit einer Geschwindigkeit von viertausend Meilen in weniger als
+einer Minute in die Sphäre des Kometen hinein, so daß er, von weitem
+gesehen, dessen Kern darzustellen schien. Ob dies vielleicht der Anfang
+zur Bildung neuer Kometen war? Darüber schweigt die Geschichte, und
+die Philosophen, die bei der Erklärung dieses Umstandes sich durch
+nicht passende Analogien haben bestimmen lassen, sind in lächerliche
+Übertreibungen verfallen. Auf welche Weise aber auch die Kometen sich
+bilden mögen, das eine steht fest, daß es am Himmel so viele gibt
+als Fische im Meere; wir berufen uns hierbei auf Kepler und fragen:
+Was müßte geschehen, wenn sich ihre Zahl willkürlich ins Ungeheure
+vermehrte? Es bedarf einer gewissen Entschlossenheit, um mit kaltem
+Blute die zahllose Masse jener Gestirne zu betrachten, die in raschem
+Fluge ihre Bahnen gegenseitig kreuzen, und man muß staunen, daß ihre
+vielfältigen Bahnen, welche die Bahn der Erde nach allen Richtungen hin
+kreuzen, nicht häufige Zusammenstöße zwischen den Planeten und Kometen
+herbeiführen.
+
+Wir wollen uns jedoch hierbei nicht länger aufhalten. Für uns bleibt
+der Komet, was er war, die handelnde Person unserer Erzählung. Das
+Meteor ist in ihm aufgegangen und seine Persönlichkeit existiert nicht
+mehr.
+
+Inzwischen war das Meer von jener Ebene, auf der sich Paris erheben
+sollte, zurückgetreten; ein gewaltiger Strom, weit größer als die
+heutige Seine, nahm deren Flußbett ein, sowie einen breiten Saum längs
+desselben, und warf sich nicht weit von ihrer heutigen berühmten
+Mündung bei Havre, aber etwas oberhalb derselben, in der Gegend von
+Caudebec, ins Meer; dagegen war das Cap de la Hève weiter in den
+Ozean vorgeschoben. Bekanntlich rücken die Ufer eines Flusses infolge
+des Sandes, den das Wasser mit sich führt, einander immer näher, und
+auch die Mündung versandet allmählich, während das Meer hingegen die
+vorspringenden felsigen Gestade nach und nach abrundet. So ist die
+Gestalt der Küste in fortwährender Umwandlung begriffen.
+
+Die Natur ging ihrem jetzigen Aussehen entgegen. Vögel sangen bereits
+in den Wäldern, die wohl das ganze heutige Frankreich bedeckten.
+Murmeltiere, Eichhörnchen, Feldmäuse, Biber, Pferde, Hunde usw. waren
+die ersten Vertreter jener harmloseren Tierwelt, die dann, nachdem
+der Mensch erschaffen worden war, bestehen bleiben sollte. In den
+geschmeidigen Zweigen der Liane kletterten bereits die ersten Affen und
+schnitten ihre Grimassen, auch sie, von allen Geschöpfen am meisten den
+Menschen ähnlich, waren Vorläufer des »Herrn der Schöpfung«.
+
+
+Fußnoten
+
+[6] Die Ellipse einiger Kometen ist so lang, daß sie zur Zeit ihres
+Apheliums eine Kälte zu ertragen haben, von der wir uns keine
+Vorstellung machen können, während sie zur Zeit ihres Periheliums
+so nahe an der Sonne vorbeigehen, daß sie einer ebenso unfaßbaren
+Hitze ausgesetzt sind. Newton schätzt das Wärmequantum, welches der
+Komet von 1680 bei seinem Vorbeigange an der Sonne in sich aufnehmen
+mußte, achtundzwanzigtausendmal so groß als die Wärme, die wir zur
+Zeit der Sommer-Sonnenwende von der Sonne empfangen, und setzt seine
+Temperatur zweitausendmal größer an als die von rotglühendem Eisen.
+Newton fügt hinzu, daß es die Bestimmung der Kometen sei, dereinst in
+die Sonne zu fallen, um deren Glühen zu unterhalten. Hierauf wollte
+wahrscheinlich der Verfasser der »Briefe aus dem Grabe« anspielen, als
+er folgendes schrieb: »Ein kolossaler Komet, größer noch als Jupiter,
+hatte noch dadurch an Umfang zugenommen, daß er unterwegs verschiedene
+kleinere Kometen, die bereits in der Auflösung begriffen waren, in sich
+aufgenommen hatte. So durch verschiedene kleine Erschütterungen einmal
+aus seiner Bahn gebracht, konnte er sich nicht mehr in seine Ellipse
+hineinfinden, und dieser Unglückliche stürzte in die verzehrende Glut
+der Sonne ... Man will wissen, daß der arme Komet, der so bei Lebzeiten
+verbrannt wurde, schrecklich geschrien haben soll.«
+
+
+
+
+Viertes Kapitel.
+
+Die vorpariserischen Pariser.
+
+
+Bei den ständigen Beobachtungen, welche die Kometen auf ihren
+Wanderungen anstellen, haben sie die sehr lobenswerte Angewohnheit
+angenommen, sich niemals auf ihr jeweiliges Urteil allein, so scharf
+und unparteiisch es auch sein mag, zu verlassen. Sie sind von jeder
+Voreingenommenheit frei, und man kann ihnen nicht den Vorwurf machen,
+daß sie etwa irgendeinem Machthaber zu Gefallen etwas nicht sagten,
+was sie dächten, oder etwas sagten, was sie nicht dächten. Nach jeder
+Richtung hin unabhängige Reisende, wie sie es sind, verbringen sie
+ihre Zeit damit, vergleichende Beobachtungen anzustellen, und sie sind
+vielleicht die weisesten von allen Himmelskindern. Um ein Beispiel
+von der Klugheit, die sie bei keiner ihrer Handlungen vermissen
+lassen, anzuführen, wollen wir nur erwähnen, daß unser Komet bei
+allem Wohlwollen, das er der Erde entgegenbrachte, und trotz des
+vorgeschrittenen Zustandes, in dem sich der Planet zurzeit befand,
+doch das Vergnügen herbeisehnte, auf dieser so zur Freude geschaffenen
+Welt ein mit Vernunft begabtes Wesen begrüßen zu können. Gegen das
+Ende der Tertiärperiode, das heißt vor vierzig Kometenjahren oder
+gegen das Jahr hundertundviertausendvierhundertundneunzig vor Beginn
+unserer Zeitrechnung, suchte er dieses Wesen auf der Erde, denn er
+folgerte sehr richtig, daß, da auf den anderen Planeten vernunftbegabte
+Geschöpfe vorhanden waren, solche auch auf der Erde erscheinen müßten.
+Da er aber von derartigen Wesen noch keine Spur entdecken konnte, so
+beruhigte er sich damit, daß die Erde für diese neue Schöpfung, die
+doch einst kommen müsse, noch nicht reif wäre, und daß all ihre Pracht
+und Herrlichkeit zunächst noch für eine vernunftlose Lebewelt da sei.
+
+Frankreich war eben aus den Wassern emporgestiegen. Wie es ja vorkommt,
+daß hervorragende Geister die Zukunft ganzer Reiche im Geiste vor
+sich sehen, so ahnte der Komet die künftige Bedeutung dieses Teiles
+der Erde und wandte ihm sein Interesse zu. Zweimal hatte sich bereits
+das Meer von neuem über den herrlichen Landstrich ergossen, bevor
+sein Gestade diejenige Gliederung annahm, deren Charakter ihm auch
+für die Zukunft bleiben sollte. Eine Bevölkerung, die sich aus den
+verschiedensten Elementen zusammensetzte, bewohnte das Land. Dort, wo
+einst Paris stehen sollte, sah der Komet sehr merkwürdige Vorfahren der
+zukünftigen Großstädter. Im Schlamme der Moräste brüllten Nilpferde und
+Megatherien; Kamele und andere Wiederkäuer zogen ihres Weges einher.
+Hirsche mit riesigen Geweihen und flinke Hirschkühe suchten und flohen
+einander in den tiefen Gründen des Waldes. An den Ufern der Seine,
+auf deren schönen Promenaden später Stutzer ihre elegante Erscheinung
+bewundern lassen sollten, waren schon Pfauen als erste Vertreter der
+Eitelkeit zu erblicken und in ihrer Nähe stolzierten Störche mit
+gravitätischen Schritten.
+
+Wie heutzutage war auch damals die Fauna bunt gemischt. Hasen liefen
+Schildkröten in den Weg, und Hunde blickten auf Katzen mit Verachtung
+herab; die kleinen Gänse liefen hinter den großen einher, aber die
+Raben hatten es noch nicht gelernt, sich mit fremden Federn zu
+schmücken. In voller Freiheit sprangen die Pferde auf den weiten Wiesen
+umher und ließen ihre Mähne lustig im Winde flattern. Die Rinderarten
+lebten in Herden gesellig beisammen und man sah sie in Gruppen mit den
+jungen Tieren zur Tränke wandern und von einer Weide zur andern ziehen.
+Die gesetzten Schrittes daherschreitenden Elefanten, die ältesten
+Glieder dieser Periode, betrachteten sich als Herren dieses friedlichen
+Reiches. Um diesem schönen Gemälde, das nur die Gegenwart des Menschen
+noch vermissen ließ, noch den letzten Pinselstrich zu geben, sah man
+in der Ferne die schneebedeckten Gipfel hoher Berge sich in den Wolken
+verlieren. Näher heran konnte man dunkle Wälder erkennen, die in ihrem
+überwiegenden Teile mit schwarzen Tannen bestanden waren. Am Rande der
+Wälder erhoben sich dichtbelaubte Erlen und Eichen in Abwechslung mit
+saftigen grünen Linden; in der Ebene waren hochaufstrebende Pappeln
+zu schauen und über den Ufern der murmelnden Quellen wiegten sich die
+Büsche der Weiden.
+
+Die Verschiedenheit, die zwischen den Gebilden zweier Welten herrscht,
+ist ganz ungeheuer, und die Geschöpfe eines Weltkörpers ähneln in
+keiner Weise denen eines anderen. Der Stoff, aus dem die Gebilde
+bestehen, ist durchaus passiver Natur; er fügt sich gehorsam der Kraft,
+die ihn leitet, und diese allein herrscht unumschränkt. Daher kommt es
+denn auch, daß die Naturkraft, welche auf den verschiedenen Weltkörpern
+an Intensität nicht gleich ist, auf ihnen Wesen hervorgebracht hat, die
+voneinander so bedeutend abweichen. Trotz der Verschiedenheit aller
+Bedingungen konnte der Komet doch bereits erkennen, daß auch die Erde
+sich jenem bleibenden Zustande näherte, in dem sich ihre Gefährten
+im Weltenraum bereits befanden, jenem Zustande, in dem ein Herrscher
+endlich von seinem Reiche Besitz ergreift. Es war deutlich zu sehen,
+daß sie sich für ihren Gebieter einrichtete, wobei freilich alle
+Entwicklungsformen einen ganz eigenen Charakter aufwiesen. So konnte
+ein aufmerksames Auge ohne Mühe erkennen, daß die Erde mannigfache
+Wohnungen vorbereitet hatte, die -- von denen anderer Planeten freilich
+sehr abweichend ausgestattet -- darauf warteten, ihren Benutzer
+demnächst einziehen zu sehen.
+
+Sollte man es jedoch wohl glauben, daß der Komet noch gegen dreißig
+seiner Jahre, von denen jedes mehr als dreitausend Erdenjahre
+umfaßt, warten mußte, bevor seine Hoffnungen sich zu verwirklichen
+schienen? Oft machte er trügerische Entdeckungen, und zuweilen
+glaubte er menschliche Spuren zu erkennen. In der großen Entfernung,
+in der er sich immerhin von der Erdoberfläche hielt, erblickte
+er oft Scharen neuer Wesen: Schimpansen, Gorillas, Orang-Utans,
+die ihm das so sehr gesuchte Wesen zu sein schienen, aber immer
+wieder mußte er seinen Irrtum erkennen. Zu gewissen Zeiten, nämlich
+in den Jahren Vierundvierzigtausendundhundertvierundsechzig,
+Einundvierzigtausendundneunundneunzig,
+Achtunddreißigtausendundvierunddreißig und
+Vierunddreißigtausendneunhundertundneunundsechzig hatten seine
+Hoffnungen ihren Höhepunkt erreicht. Wie uns gelegentlich im
+Monat April schöne Sommertage, an denen vom Erdboden Licht,
+Wärme und Blumenduft in die weichen Lüfte aufsteigen, durch ihr
+frühzeitiges Erscheinen erfreuen, so gab es auch in diesem April der
+Entwicklungsgeschichte der Erde einen verfrühten Sommer. Ein neues
+Wesen, das ganz dazu angetan schien, die Herrschaft über die Erde an
+sich zu nehmen, war in den lachenden Fluren eines großen Erdteils,
+der inzwischen bereits wieder verschwunden ist, aufgetaucht. Schon
+gesellten sich die Viehherden zu ihm, als wollten sie ganz von selbst
+dem neuen Wesen untertänig werden, schon schienen die Elemente dem
+Einzuge des Königs und der Errichtung seiner Herrschaft geneigt zu
+sein, aber es handelte sich auch hier um eine frühzeitige Frucht, und
+der Komet erkannte bald, daß es noch keine Menschen waren.
+
+Vielleicht darf man diesen ursprünglichen Wesen, von denen ich eben
+sprach, den Namen »Troglodyten« geben, weil sie natürliche Höhlen,
+die sich entweder an den Seiten von Bergen oder in der Einsamkeit der
+Wälder befanden, bewohnten. Niemals legten sie Steine aufeinander,
+um einen größeren Bau aufzuführen. Möglich, daß sie die Ahnen des
+Menschengeschlechtes und das verbindende Glied zwischen dem Menschen
+und den früheren Tierarten waren, denn ~natura non facit saltum~.
+Unser aufmerksamer Reisender konnte dieses große Rätsel jedoch nicht
+lösen. Während der vier Jahre, die wir genannt haben, beobachtete
+er sie unausgesetzt, ohne daß er über ihre wahre Natur mit sich ins
+Reine kam, und als im Jahre Einunddreißigtausendneunhundertundvier vor
+unserer Zeitrechnung der Komet wieder in sein Perihelium trat, waren
+sie wieder verschwunden, und vergeblich suchte er auf der Erde ihre
+Spuren oder ihre Nachfolger.
+
+In den Lichtungen der jungfräulichen Wälder sah man bisweilen auch
+große Affen herumspazieren, einen Stock in der Hand schleppend, und
+manchmal konnte man auch zwei große Parteien, die sich mit abgerissenen
+Baumzweigen bewaffnet hatten, erkennen, wie sie am Rande eines Gehölzes
+aufeinander losschlugen. Tote und Verwundete blieben auf dem Platze,
+und man ließ sie liegen, ohne sich weiter um sie zu bekümmern. Andere
+Affen, die miteinander harmlos und zutraulich spielten, zeigten sich
+hinterlistig, sobald sich ihnen Gelegenheit zu losen Streichen bot, was
+immerhin auf eine gewisse Intelligenz schließen ließ. Mehrere dieser
+gespieligen Geschöpfe taten sich bisweilen zusammen, um ein träges
+Krokodil aus dem Schlummer aufzuschrecken. Fuhr dieses nun plötzlich
+aus dem Schlafe auf, so liefen sie eiligst davon, und das Krokodil
+vergnügte sich nun seinerseits damit, unversehens zuzuschnappen und den
+Kleinsten oder Ungeschicktesten, den es greifen konnte, zu verspeisen.
+Auch vereinigten sich ganze Scharen zu fröhlichen Gelagen, bei denen
+vermutlich die Hochzeit irgendeines hervorragenden Mitgliedes ihres
+Kreises gefeiert wurde. Um die Wahrheit zu gestehen, waren dies die
+einzigen irdischen Wesen, die damals den Kometen interessierten.
+Fünfzigtausend Jahre lang sah er sie immer wieder, ohne daß sie ihn
+langweilten. Die anderen auf der Erde lebenden Geschöpfe schienen auch
+noch nicht den vierten Teil ihres Verstandes zu besitzen. Pferde,
+Elefanten, Hunde und Katzen schienen wohl gelehriger, und es war wohl
+möglich, daß ihre Erziehung durch den Menschen sie einst in ferner
+Zukunft auf eine höhere geistige Stufe bringen und sie verständiger als
+die Affen machen würde; für jetzt aber nahmen unbestreitbar die Affen
+den ersten Rang in der Schöpfung ein.
+
+In den heißen Gegenden des Äquators entdeckte der Komet später andere
+Geschöpfe, die mit den eben geschilderten die größte Ähnlichkeit
+hatten. Sie waren genau so wie diese behaart, lebten ebenso wie diese
+in kleinen Familien in Schluchten oder Wäldern, schlugen sich von Zeit
+zu Zeit tot, machten auf die Vögel des Himmels Jagd und hielten sich
+während der Nacht verborgen. Nur in zwei Punkten unterschieden sie sich
+unwesentlich von den vorher geschilderten Geschöpfen, und zwar einmal
+darin, daß, während jene viel miteinander spielten, diese von wilderem
+Charakter zu sein schienen, und daß sie zweitens bisweilen Stämme zu
+Scheiterhaufen aufeinander schichteten und verbrannten, was die früher
+Beobachteten niemals versucht hatten. Davon abgesehen, glichen sie sich
+fast wie zwei Wassertropfen einander.
+
+Durch einen jener glücklichen Zufälle, wie sie sonst nur in Romanen
+vorkommen, begegnete unser Komet in demselben Jahre, in dem er
+die eben geschilderte Beobachtung machte, einem anderen großen,
+»parabolischen«[7] Kometen, der vom Stern α im Zentauren heranzog,
+unserem Nachbarn, der uns bekanntlich jedoch nur auf fünf und eine
+halbe Billion Meilen nahe kommt. Die beiden Kometen freuten sich der
+so selten vorkommenden Gelegenheit einer Begegnung, und der aus dem
+Zentauren begleitete unseren Helden, bis sie an die Bahn des Neptun
+kamen. Sie plauderten zwar nur einen kurzen Kometenaugenblick zusammen,
+das heißt nur dreihundertundneunzig Jahre lang, aber diese Zeit genügte
+vollkommen, um unseren Kometen in gute Laune zu versetzen, denn sein
+Kollege, der viel Scharfsinn besaß, hatte ihn versichert, daß er ohne
+Zweifel, wenn er auf der Erde habe Feuer anzünden sehen, auch Grund zu
+der Annahme hätte, daß dort ein mit Vernunft begabtes Geschlecht leben
+müsse.
+
+Sie hatten sich von den weiten Reichen unterhalten, die jenseit des
+Neptun sich erstreckten, und der parabolische Komet hatte dabei von
+einer großen Bildung und bedeutender Erfahrung Zeugnis abgelegt. Sein
+Gefährte war lebhaft interessiert, denn um uns über Wert und Eigenart
+verschiedener Gebiete zu unterrichten, gibt es kein besseres Mittel als
+die Berichte zuverlässiger Reisender. Aber anderseits stimmen diese
+Berichte oft nicht mit unseren Anschauungen über gewisse feststehende
+Wahrheiten, die z. B. mit Volksangehörigkeit nichts zu tun haben,
+überein, und auch der Komet aus dem Zentauren geriet in große
+Widersprüche, wenn auf derartige Wahrheiten die Rede kam. Aus diesem
+Grunde entschloß sich unser Held, allen Lockungen unbekannter Fernen
+gegenüber fest zu bleiben und niemals parabolisch zu werden. Von ihrer
+weiteren Unterhaltung will ich nichts erzählen, denn wir würden davon
+doch nichts verstehen. Selbst mit unseren schärfsten Fernrohren können
+wir kein Bild des Lebens auf dem Neptun erhalten, und um diesen Punkt
+drehte sich ihr Gespräch.
+
+Als auf seinem Rückwege sich unser unerschrockener Wanderer wiederum
+der Erde näherte, erwartete ihn Gutes. Seine geliebte Erde zeigte
+sich ihm bei Sonnenaufgang und bot ihm einen solch sinnberückenden
+und wunderbar schönen Anblick, wie er ihn noch nie gesehen hatte. Bei
+dem blauen Himmel strahlte sie förmlich von Jugend und Schönheit.
+Die Wiesen prangten in frischem, taubenetztem Grün, die Knospen der
+Blumen entfalteten sich, und am Hagedorn blühten die wilden Rosen. Ganz
+zweifellos war die letzte Periode in der Entwicklungsgeschichte der
+Erde herangenaht -- die Quartärzeit hatte begonnen.
+
+Freilich, wenn noch zahlreiche Vulkane inmitten der Gebirgsketten
+rauchten und der rötliche Qualm wirbelnd zum Himmel stieg, wenn
+die Erde noch zitterte und ihre trägen Glieder gewaltsam zu dehnen
+suchte; wenn noch plumpe Dickhäuter den grünen, saftigen Schmuck der
+Wiesen zerstampften, während in den Wüsten Löwen und Tiger brüllten;
+wenn die großen geflügelten Jäger aus den Lüften sich auf kleine
+furchtsame Geschöpfe stürzten, um sie zu verschlingen, wenn in der
+salzigen Meeresflut noch unerbittliche Ungeheuer lauerten -- dann
+konnte die Erde noch keine vollkommene Schöpfung sein, dann mußte sie
+eine untergeordnete Welt bleiben, in der das Gesetz der Vernichtung
+herrschen sollte, das ja, leider, über dem Gesetz des Lebens steht. Auf
+der anderen Seite war auch nicht zu verkennen, daß die ursprünglichen
+unförmlichen Gestalten bereits verschwunden waren, um neuen Formen
+Platz zu machen, die sicherlich eine bleibende Stätte finden sollten.
+Es war ganz augenscheinlich, daß für die Berge auf dem festen Lande und
+für die Wälder am Meere die Zeit, in der ein Wesen kommen sollte, das
+ihren Wert wohl zu würdigen verstände, in der Gegenwart und nicht mehr
+in der fernen Zukunft lag.
+
+Im höchsten Grade begierig, endlich auf der Erde Wesen erscheinen zu
+sehen, die fähig wären, die Schönheit ihrer großartigen Landschaften
+zu bewundern, edle und kräftige Geschöpfe, in deren Kopfe die
+heilige Flamme des göttlichen Gedankens Platz gegriffen hätte, blieb
+dem aufmerksamen Kometen nichts übrig, als abzuwarten. Vor sechs
+Kometenjahren hatte er gesehen, wie unbehaarte Zweifüßler von Höhle
+zu Höhle liefen und sich leidenschaftlich der Jagd ergaben. Das Jahr
+darauf hatte er Wesen entdeckt, die mit Pfeil und Bogen, mit steinernen
+Messern und Äxten bewaffnet waren und sich bisweilen auch in kleinen,
+von Sümpfen geschützten Behausungen zusammentaten, ja sogar nach Art
+der Biber ihre Wohnungen in die Seen bauten. Aber es wollte dem Kometen
+nicht einleuchten, daß das menschliche Geschlecht nicht höher geartete
+Vertreter als diese haben sollte. Bei jedem Vorbeigange nach seinem
+Perihelium war er auf das eifrigste bemüht, die gesamte Oberfläche
+der Erde mit seinen Blicken zu durchmustern, und sein Herz zitterte
+dabei vor Erregung, jeden Augenblick eine neue Enttäuschung erleben
+zu müssen. Seit fünfzigtausend Jahren, ganz besonders aber seit den
+letzten zehntausend Jahren wartete er auf das Erscheinen des Menschen,
+und sein Eifer verdiente es wohl, von Erfolg gekrönt zu werden.
+
+In den fruchtbaren Tälern, welche die oberen Zuflüsse des Indus
+bewässern, am Fuße der Riesenketten des Himalaja, herrscht ein
+ewiger Frühling, der seinen wohltätigen Einfluß weithin verbreitet.
+Hier war es auch, wo der iranische Tierkreis entstand, der von
+einem Punkte am Himmel, welcher die Sonnenwende des Jahres
+Neunzehntausenddreihundertsiebenunddreißig vor unserer Zeitrechnung
+bezeichnet, seinen Ausgang nimmt. Nach diesem ersten astronomischen
+Kalender richteten später zwei große Völkerrassen ihr Leben ein. Zur
+Zeit, als der Komet vorbeiging, waren sie noch vereint, es waren
+die Arier, ein Hirtenvolk, das, wie der Komet auf den ersten Blick
+erkannte, den Völkern, die bisher auf der Erde gelebt hatten, überlegen
+war. Abgesehen von einer mehr entwickelten äußeren Gestalt, gaben sie
+durch untrügliche Zeichen von ihrer geistigen Regsamkeit Kunde. Die
+einzelnen Familien hatten sich zu Stämmen zusammengetan und schlugen
+bald hier, bald dort ihre Zelte auf, wobei sie sich stets nach der
+Sonne richteten. Der Orient erwachte, und vielleicht sollte in ihm
+die Wiege des Geistes entstehen. Hatte vielleicht Gott schon auf sein
+letzterschaffenes Wesen seine Hand gelegt, um seine Stirn mit dem für
+alle Zeiten unvergänglichen Zeichen seines Geistes zu schmücken? Oder
+hatte er die gebrechliche Stirn dieses noch zu jungen Geschöpfes noch
+nicht berührt? ... Nicht gleich am ersten Tage nach seiner Geburt kann
+das Kind von seiner Vernunft Gebrauch machen.
+
+Legt man eine Eichel in fruchtbares Erdreich, dann wird sich allmählich
+der in ihr verborgene Keim entwickeln. Viel Schnee wird den Boden des
+Waldes mit seinem weißen Tuche überdecken, viel Tau wird im Frühling
+darauf herniedersinken, und durch die dichtbelaubten Wipfel wird oft
+die heiße Julisonne ihre wohltuenden Strahlen senden. Und es wird zwar
+lange dauern, aber endlich wird sich doch eine junge, grüne Eiche im
+Winde schaukeln; noch können die kleinen Vögel, die auf ihr sitzen,
+ihren dünnen Stamm zur Seite biegen. Aber wenn die Jahrhunderte an
+ihrem sich immer mehr ausbreitenden Gipfel vorüberziehen, dann wird
+sich erst die ganze Größe des Baumes in seinem reichen Blätterschmuck
+an den vielfach verästelten Zweigen entfalten. Generationen werden
+unter seinem Schatten sitzen, und die Zahl seiner Jahre kann kaum noch
+gezählt werden. So geht in der Natur jeder Fortschritt nur gemach
+vonstatten, und so folgt auch in dem göttlichen Werke der Schöpfung ein
+Weltenalter mit gemessenem Schritt auf das andere.
+
+
+Fußnoten
+
+[7] Parabolische Kometen nennt man diejenigen, die anstatt in
+einer geschlossenen Kurve um die Sonne zu kreisen und in gewissen
+Perioden stets den nämlichen Punkt zu berühren, sich aus der Ellipse
+entfernen, um nicht mehr dahin zurückzukehren. Sie wandern in unfaßbare
+Entfernungen, verschwinden aus dem Bereich der Anziehung unserer Sonne,
+gehen in andere Systeme über und setzen so ihr vagabundierendes Leben
+fort.
+
+
+
+
+Fünftes Kapitel.
+
+Im Orient.
+
+
+Dem Gestirn, das mit liebevoller Sorgfalt die weitere Entwicklung der
+Erde verfolgte, war es nicht entgangen, daß in der letzten Zeit die
+einzelnen Stufen rascher aufeinander gefolgt waren. Dreitausend Jahre
+sind indessen ein verhältnismäßig so geringer Zeitraum, daß der darin
+erreichte Fortschritt von keiner großen Bedeutung sein kann. Nur an der
+Zahl seiner Vorübergänge an der Erde vermochte der Komet festzustellen,
+welche Fortschritte die Erde in der Zwischenzeit gemacht hatte und
+wie weit sie auf ihrem Wege zu vielleicht unendlicher Vervollkommnung
+gelangt war.
+
+Mehr als jemals in seinen Hoffnungen bestärkt, machte sich unser
+Philosoph mit größtem Eifer daran, die Sitten jener patriarchalischen
+Stämme Indiens einer eingehenden Prüfung zu unterziehen. Aber welch
+großer Unterschied lag doch zwischen ihnen und denen der Bewohner
+anderer Welten, die er vor langer, langer Zeit kennen gelernt hatte!
+Wie weit waren diese Völker doch noch von dem wahren Zeitalter der
+Humanität entfernt, in dem Poesie, Wissenschaft und Kunst die Bildung
+einer Nation ausmachen! Wenn unter dieser flachen Hirnschale der Geist
+schon erwacht und sich seiner Kraft bewußt geworden war, dann war er
+ganz gewiß noch nicht über jenen halbnächtlichen Zustand, in dem noch
+die Traumwelt vorherrscht, hinausgekommen. Er lebt in einer beständigen
+Furcht; als höhere Wesen betet er die Elemente, die Naturerscheinungen
+an. Aber sein Sinnen ist schon erwacht, und die Poesie führt ihn
+bereits zum gemeinsamen Urquell aller Dinge.
+
+Erst im Jahre Dreizehntausendfünfhundertundvierzehn vor unserer
+Zeitrechnung geschah es, daß der Komet zum erstenmal auf der Erde
+etwas zu entdecken glaubte, was einer menschlichen Stadt ähnlich sah;
+in Wahrheit war es jedoch nur ein unregelmäßiger Haufen aus Stein
+erbauter Hütten. Der Enthusiasmus aber, mit dem er diese Entdeckung
+begrüßte, läßt sich nicht in Worten ausdrücken; glücklich war er, nun
+endlich einen handgreiflichen Beweis dafür zu haben, daß die Herren
+der Erde in ihrer Entwicklung und in ihrem Familienleben Fortschritte
+machten. Aus einer ungeheuren flüssigen Ebene, die den größten Teil
+der Erdoberfläche gleich einem smaragdenen Tuche überdeckte, hob sich
+ein weites unregelmäßiges Dreieck in ockergelber Farbe ab. Dieser
+Erdteil schien nicht so fruchtbar zu sein wie der benachbarte, der zu
+seiner Rechten angrenzte, und auf dem noch die bereits oben erwähnten
+indischen Stämme lebten; in seinem äußersten Norden war aber eine
+Landschaft von außerordentlicher Fruchtbarkeit und größter Schönheit
+zu erblicken. Es schien fast so, als ob der Mensch imstande gewesen
+wäre, das Gebiet der Erde vollständig zu übersehen, die verschiedenen
+Gegenden miteinander zu vergleichen, und gerade die fruchtbarste und
+schönste zu seiner Niederlassung auserwählt hätte. Inmitten dieser von
+der Natur bevorzugten Gegend strömte ein breiter, mächtiger Fluß dahin,
+der sich kurz vor seiner Einmündung ins Meer in zwei Arme teilte, und
+oberhalb des Deltas war die erste Stadt entstanden. Memphis hieß sie,
+die in späteren Jahren ihre königliche Oberherrschaft an This, eine
+Stadt Oberägyptens, abgeben sollte, bis noch später Theben die beiden
+Städte ablöste und in den Schatten stellte.
+
+Wohl ist es wahr, daß der himmlische Beobachter die weiße Rasse unter
+den Menschen noch nicht bemerkt hatte, aber es entging ihm auch nicht,
+daß sich in der äußeren Erscheinung der Menschen doch schon ein ganz
+gewaltiger Fortschritt kundgab. Er sah, wie zur Ausführung größerer
+Arbeiten Menschen sich zu Gruppen zusammenscharten und daß bereits ein
+festes Band die einzelnen Familien eines Stammes zusammenhielt. Wenn
+des Abends sein feuriger Schweif den Horizont schmückte, konnte er
+sehen, wie Menschen ihren Führern an den Nil folgten, an seinen Ufern
+niederknieten, um in den stillen Gewässern des Stromes das Bild des
+Kometen zu betrachten. Andere, in ihrer Kleidung wesentlich von jenen
+unterschieden, stiegen in der Nacht auf hohe Pyramiden und suchten dort
+den Stand des Kometen unter den anderen Sternen festzustellen. Es war
+dies der Ursprung wissenschaftlicher Forschung, aber auch zu gleicher
+Zeit der Anfang der Unterjochung furchtsamer und unwissender Völker
+durch tyrannische und rücksichtslose Männer.
+
+Da der Komet die Erde doch nur in langen Zwischenräumen besuchte, wird
+man es begreiflich finden, daß er von all dem, was der Mensch in seinem
+Hochmut mit der stolzen Bezeichnung »Weltgeschichte« benennt, nur eine
+ganz unbestimmte Vorstellung gewann. Nur in großen Zügen konnte er
+von seinem Stand am Himmel verfolgen, wie die einzelnen Perioden der
+Schöpfung der Erde aufeinander gefolgt waren, er sah sie aber nicht
+durch den trügerischen Spiegel, dessen die Menschen sich bedienen,
+um alles, was sie betrifft, recht groß zu machen, und das, was ihnen
+fremd oder unbegreiflich ist, recht klein erscheinen zu lassen. Der
+Komet konnte sich zwar naturgemäß nicht rühmen, alle Einzelheiten der
+Geschichte der Erde zu kennen; aber er konnte sich -- und es ist dies
+auch mehrmals geschehen -- zum Dolmetscher der Erde bei den anderen
+Gestirnen machen und ihnen die Geschichte unseres Planeten mit einer
+Klarheit und einer auf eigner Anschauung beruhenden Genauigkeit
+erzählen, die allen Täuschungen der Menschen bedeutend überlegen war.
+Es wäre daher sehr unrecht, wenn man sich etwa darüber wundern wollte,
+daß unser beobachtender Freund sich nicht besser über die Einzelheiten
+des irdischen Lebens zu unterrichten suchte. Seine Art, zu beobachten,
+konnte keine andere werden, und das Erscheinen des Menschen auf der
+Erde hat ihn auch nicht zu bewegen vermocht, seine Besuche in kürzeren
+Zwischenräumen zu wiederholen.
+
+So würde er zwar nicht bestimmen können, ob sein Vorbeigang im Jahre
+Zehntausendvierhundertundneunundvierzig in die Periode der Ptah oder
+erst in die des Re, des Chons oder des Set fiel, nach denen die
+ägyptischen Priester ihre Jahre zählten; er wußte aber ganz genau,
+daß eine der unserigen benachbarte Sonne, von der Kometen, die von
+dort kamen, ihm glänzende Schilderungen entworfen hatten, der große
+und schöne Sirius, es vermocht hatte, die Blicke und Gedanken, die
+Bewunderung und Verehrung der Priester von Ober- und Unterägypten auf
+sich zu ziehen. Er dürfte wohl auch nicht bestätigen können, daß in
+dem entlegenen Zeitabschnitt, von dem der indische Kalender seinen
+Ausgang nimmt, die Söhne des Ostens bereits imstande waren, den Punkt
+der Sonnenwende festzustellen; ganz zweifellos wußte er aber, daß
+die Inder die Sonne verehrten, ebenso Agni, den Gott des Feuers, und
+daß sie dagegen Indra, den Gott des Blitzes, fürchteten. Aus eigener
+Beobachtung wußte er auch, daß aus dem Orient das Licht der Erkenntnis
+hervorgehen würde, das später den Okzident erhellen sollte.
+
+Dem Kometen war es auch vollkommen klar, daß, wenn es der Erde
+beschieden sein sollte, ein Wohnort für vernunftbegabte Wesen zu
+werden, diese Wandlung nicht in zwei Tagen geschehen könnte, sondern
+daß auch die Menschheit zu diesem Ende eine lange Lehrzeit durchmachen
+müßte. Es ist ein weiter Weg, der zur Zivilisation einer Welt führt!
+Nach seinen Jahren von dreitausend Erdenjahren Länge hatte der Komet
+in der Theorie sich ausgerechnet, daß die Erde in vier bis fünf
+Jahren die Kinderschuhe werde ausziehen können. Vier Jahre, zu dem
+hinzugerechnet, bei dem wir jetzt in unserer Erzählung stehen, ergeben
+1811 unserer Zeitrechnung! Hat sich der Komet getäuscht? In der Praxis
+freilich, sagte sich der Komet selbst, wird hierzu ein viel längerer
+Zeitraum erforderlich sein, da nach allem, was er sehen konnte, die
+Menschen durchaus nicht von dem Verlangen, sich zu vervollkommnen,
+beseelt zu sein schienen, sondern viel lieber sich gegenseitig zu
+schädigen suchten. Eine Beobachtung, die sich ihm aufdrängte, machte
+ihn im höchsten Grade betroffen, und er hat sie nie vergessen können.
+Noch immer steht er unter dem Eindruck, den er erhielt, als er aus
+seinen Himmelshöhen Zeuge einer jener großen und blutigen Schlachten
+war, wie sie in der Frühzeit der Geschichte geschlagen wurden, ein
+Eindruck, der sich im Laufe der Zeiten nicht verwischte, sondern
+sich immer wieder erneuerte, denn, solange es auf der Erde Menschen
+gibt, hat unser teilnehmender Freund auch nicht ein einziges Mal die
+Erde besucht, ohne daß er nicht irgendwo gesehen hätte, wie diese
+Geschöpfe sich gegenseitig totschlugen. Es schien ihm fast so, als
+ob sie nur dazu geboren wären, ihre Kräfte aneinander zu messen, und
+sobald sie sich stark genug dazu fühlten, ihre Macht gegeneinander zu
+gebrauchen. Anstatt, wie auf anderen Welten, eine geeinte, solidarische
+Familie zu bilden, lagen die Menschen der Erde fortwährend mit sich
+selber im Kampfe. Nach dieser Erfahrung, folgerte er, müsse man die
+Zahl der Jahre, die für die Lehrzeit der Menschen erforderlich sei,
+vervierfachen.
+
+Durch ein unvorhergesehenes Ereignis, das wir hier nur beiläufig
+erwähnen wollen, sollten die Beobachtungen des Kometen zu der Zeit,
+in der wir uns jetzt befinden, eine kleine Lücke erhalten. Bei seinem
+Vorübergange im Jahre Siebentausenddreihundertundvierundachtzig
+wurde seine Aufmerksamkeit ausschließlich durch den Mond in Anspruch
+genommen, und die neun Monate, die der Komet angesichts der Erde
+verweilte, flossen dahin, ohne daß er Zeit gefunden hätte, seine
+Beobachtungen auf unserem Planeten fortzusetzen. Schon im Jahre
+Neunundfünfzigtausendvierhundertundneunundachtzig, also siebzehn
+seiner Jahre vorher, war dem Kometen auf dem der Erde benachbarten
+Gestirn, der sie wie ein treuer Trabant unablässig begleitet, eine
+allgemeine Bewegung aufgefallen, die auf der Oberfläche des Mondes
+eine ganz ungewohnte Änderung herbeiführte. Zwei voneinander ganz
+verschiedene Naturen hatten auf seinen beiden Halbkugeln Platz
+gegriffen; Mondbewohner, die von einer der beiden Hemisphären auf die
+andere übergingen, glaubten in eine ganz andere Welt zu kommen. Als
+ob das Gesetz von dem Gleichgewicht der Kräfte dort nicht existierte,
+nahm der reichere Teil den ärmeren Teil unmerklich in sich auf.
+Er sog ihm förmlich den Saft des Lebens aus, als ob es sein Wille
+gewesen wäre, das Reich der Mondbewohner allein ohne einen Nebenbuhler
+beherrschen zu wollen. Sämtliche flüssige Massen sowie alle zu Gasen
+verflüchtigten Körper zogen von der der Erde zugewandten Seite auf die
+andere hinüber, und gerade zu der Zeit, in der der Komet an der Erde
+vorbeiging, fand der Auszug der Seleniten, der Mondbewohner, nach der
+Halbkugel ihres Gestirnes statt, die nur noch allein bewohnbar blieb.
+Man sah sie überall sich rüsten, und von allen Seiten liefen sie nach
+der Grenze des Horizontes, und alles, alt und jung, groß und klein, arm
+und reich, wanderte nach der neuen Welt. Die unglückselige Hälfte des
+Mondes blieb von der Zeit an vollkommen verödet, und wir sehen heute
+ihre erloschenen Krater und die ausgetrockneten Meere, die ewig in ein
+grausiges Schweigen gehüllt sind.
+
+Fast hätte noch ein anderes Ereignis den Studien unseres Kometen ein
+frühzeitiges Ende gemacht. Bei seinem drittletzten Vorübergange glaubte
+er schon alles Leben auf der Erde der Vernichtung preisgegeben zu
+sehen. Eine ungeheure Flut hatte sich über sie ergossen, angeschwollene
+Ströme hatten Wiesen und Felder verwüstet, Ebenen und Gebirge
+schienen unterwühlt zu sein; auch das Meer schien die Grenzen seines
+Reiches überschritten zu haben, um die bisherigen Kontinente seiner
+todbringenden Herrschaft zu unterwerfen. Als sich aber gegen Abend
+die Erde gedreht hatte und dem Kometen ihre andere Hälfte zuwandte,
+vermochte er zu erkennen, daß diese Sintflut keine allgemeine war.
+Sie beschränkte sich nur auf die uralten Gegenden Asiens, während
+die beiden ungeheuren Dreiecke Amerikas im schönsten Sonnenschein
+dalagen. Die üppigste Vegetation herrschte hier, die Tierwelt befand
+sich auf der Höhe ihrer Blüte, und die Menschen, die dort wohnten,
+freuten sich ihres Lebens und beteten ihre schöne Natur an. Es waren
+die Vorfahren der Tolteken, auf die zuerst die Chichimeken und dann
+die Azteken folgten. Diesen war es auch beschieden, das Reich der
+Tapaneken, Akolhuaner usw. in das ihrige einzuverleiben. Sie gründeten
+die berühmte Stadt Tenochtitlan auf den Inseln des Tezcuco-Sees,
+die sie später zu einer einzigen Insel umschufen, um eine feste
+Grundlage für die Hauptstadt Mexikos zu gewinnen. Man sah auch die
+Berge, auf denen Manco-Capac eines Tages die Republik der Inkas,
+die Sonnenanbeter waren, gründen sollte. In ihr Reich zog später
+Pizarro ein, um es zu erobern und dann das Vize-Königreich Peru zu
+gründen. In den beiden Amerika lagen viele voneinander getrennte
+kleine Staaten. Nicht mit Unrecht dachte der Komet, daß, wenn durch
+ein plötzlich hereinbrechendes Unglück die asiatische Kultur auf dem
+Grunde des Meeres verschwände, Amerika sie recht wohl ersetzen könnte.
+Bald aber hatte er die Gewißheit, daß die Menschheit doch nicht in
+Gefahr stand, vom Erdboden zu verschwinden. Während die »neue Welt«
+zum Leben erwachte, wuchs die »alte« immer mehr und schuf so Ersatz
+für den kleinen Teil, den sie tatsächlich der großen Flut hatte zum
+Opfer bringen müssen. Ägypten besaß auch schon eine wirkliche Stadt,
+in der man bereits Paläste und Türme unterscheiden und die Anfänge
+einer einförmigen Skulptur erkennen konnte. Hohe Pyramiden bildeten
+Wahrzeichen der dortigen Kultur, und in Indien entstanden ebenfalls
+große Städte. Auch Europa machte sich schon bemerkbar; erwachend,
+erkannte es, daß es bereits Tag geworden war, und fühlte das Verlangen
+aufzustehen und an der Kultur mitzuarbeiten. Nur in Australien konnte
+unser Komet noch keine höher gearteten Wesen, als große Affen,
+erkennen, die einander Grimassen schnitten.
+
+In Gesellschaft der so verschiedenartig gestalteten menschlichen Rassen
+entdeckte der Komet auch seltsam geartete Tierformen, die heute nicht
+mehr vorhanden sind: Da war der ~Elephas primigenius~ oder das Mammut,
+ein ungeheurer Elefant, der 15--18 Fuß hoch war und mit gekrümmten
+Stoßzähnen, die wenigstens 12 Fuß in der Länge maßen, bewaffnet war.
+Als man in späteren Zeitaltern fossile Knochen dieses Mammut zusammen
+mit menschlichen Gebeinen fand, hielt man sie irrtümlich für Überreste
+von Riesen, die 20 Fuß groß gewesen sein sollten! Da sah man das
+~Rhinoceros tichorhinus~, ein über und über mit Haaren bedecktes
+Ungeheuer, in dem wir wohl das Urbild des die Höhle bewachenden
+Drachen der Sage zu erblicken haben; auf der Höhe des Montmartre
+hauste der Höhlenbär in Gesellschaft riesenhafter Tiger; der Wisent
+und der Auerochs, welcher in Gallien von Cäsar auf dessen Rückwege von
+Bibracte noch gesehen wurde, bevölkerten die Wälder, ebenso der ~Cervus
+megaceros~, eine Hirschart, die mit einem kolossalen Geweih von 10--12
+Fuß Breite geziert war; diese Hirsche fielen den ersten menschlichen
+Jägern, die mit Pfeil und Bogen schossen, als Beute zu. Auch prächtige
+Vögel, wie man sie heute nicht mehr sieht, gab es, wie der Dinornis
+oder Epiornis, dessen Eier 25 Zentimeter lang waren. Sie gehörten zu
+der Familie der Strauße und gaben in der damaligen Fauna eine sehr gute
+Figur ab.
+
+Die Ureinwohner Frankreichs, die Kelten, die ein Glied der
+indogermanischen Völkerfamilie waren, kannten diese würdigen
+Nachkommen vorsintflutlicher Tiergeschlechter noch ganz gut. Der
+Komet beobachtete die Kelten mit Interesse, und sie verdienten es
+auch, daß er ihnen seine Aufmerksamkeit zuwandte, die hunderttausend
+Jahre vorher die Riesen der Vorwelt auf sich gezogen hatten; übrigens
+eine bedeutungsvolle Perspektive, daß dasselbe Gestirn, zu dem wir
+aufblicken, schon Geschlechtern, die seit Jahrhunderten erloschen, und
+Völkern, die bereits für immer in den Abgrund der Zeiten verschwunden
+sind, leuchtete. So vergehen wie Eintagsfliegen die Wesen, die für
+uns alles Dasein darstellen, während die Natur, die wir als etwas
+Selbstverständliches hinnehmen, ewig in ihrer erhabenen Größe bestehen
+bleibt.
+
+Es war im Jahre 1254 vor Christi Geburt, als unser ehrwürdiger
+Reisender zum vorletztenmal an der Erde vorüberging. Damals führten
+unsere Ahnen noch ihr einförmiges Naturleben inmitten der dunklen
+Wälder, die zu jener Zeit noch das Land bedeckten. Ihr Ehrgeiz ging
+über die Scholle, auf der sie geboren waren, nicht hinaus, und sie
+genossen in Frieden das Licht des Himmels und die Güter der Erde.
+Ihre Großonkel, die wir bereits vor einigen tausend Jahren im fernen
+Orient kennen gelernt haben, führten noch immer dasselbe frohgemute
+Leben. Aber im Gegensatz zu den Kelten, die friedlich in den Wäldern
+ihres Landes wohnten, suchten sie weitere Eroberungen zu machen. Doch
+die Zeit ist nicht mehr fern, in der auch die Kelten nach dem Süden
+wandern und hinter sich die Kimmerier, Scordisken, Taurisker, Boier
+und Zimbern lassen werden; jetzt aber erfreuen sie sich noch des
+Glückes ihrer Kindheit, aber auch sie werden groß und mächtig werden.
+Anderseits jedoch sind die Völker, die wir bereits betrachtet haben,
+von ihrer Höhe zurückgegangen. Ägypten schläft, Memphis ist tot, This
+träumt und Theben, das hunderttorige, erwacht. Aber es dauert nicht
+mehr lange, und der Wüstensturm wird alle diese Städte hinwegfegen. Ach
+wieviel verschwundene Kulturen! Babylon, das vor fünfzehnhundert Jahren
+gegründet wurde, ist bereits gesunken, und Ninive, das ihm folgte,
+liegt in Trümmern. Ecbatana taucht auf, aber nur um später Persepolis
+Platz zu machen, das auch seinerseits wieder fallen wird. Assyrer,
+Meder, Perser, Chaldäer waren nichts weiter als abgestoßene Glieder
+einer großen Völkerfamilie. Auf der anderen Halbkugel schritt Amerika
+nur langsam vorwärts. Im östlichen Asien waren in China die Keime der
+Kultur aufgegangen; und überallhin sandte die Sonne ihre befruchtenden
+Strahlen und hüllte Länder und Meere in ihr friedliches Licht. Vor
+kurzem erst war ein kleines Volk aus Ägypten ausgezogen, jetzt setzte
+es sich längs des Meeres fest, aber es hatte sich noch keine Könige
+gewählt. Schließlich ist noch im Süden Europas eine kleine Halbinsel
+zu erwähnen, deren Bewohner, die erst vor achthundert Jahren dorthin
+gekommen waren, älter als der Mond sein wollten und behaupteten, der
+Grille gleich, die von ihren Frauen als Wahrzeichen im Haare getragen
+wurde, aus dem Boden der Erde entstanden zu sein. Damals beschäftigte
+eine wichtige Begebenheit die Bewohner dieses Landes. Ein gewisser
+Paris hatte eine sehr schöne Dame, namens Helena, die rechtmäßige
+Gattin des Königs Menelaus, entführt und nach einer einige Grade
+entfernten Stadt Kleinasiens gebracht. Das ganze Volk geriet dadurch
+in Aufregung. Überall wurden Waffen hergestellt, Pferde gezäumt,
+Säbel geschärft, Harnische geglättet, Panzerhemden gewebt, Schilde
+geschmiedet, Beinschienen gefertigt, Lanzenspitzen befestigt, Stöcke
+mit Eisen beschlagen, das Gepäck gepackt. Solch große Vorbereitungen
+hatte der Komet noch nie gesehen. Zu seinem Unglück, oder besser
+gesagt, zu seinem Glück, konnte er das Ende des Krieges nicht abwarten,
+denn die Belagerung der Stadt dauerte nicht weniger als zehn Jahre,
+und in diesen zehn Jahren hatte der Komet viele Millionen Meilen
+durchflogen; das hinderte ihn aber nicht, sich darüber klar zu werden,
+daß man einer Kleinigkeit wegen sehr viel Lärm mache, und sich zu
+sagen, daß er den Bewohnern der Erde, wenn sie fortfahren sollten, sich
+um Nichtigkeiten so hinzumorden, schließlich nicht mehr die Ehre seiner
+Beachtung würde zuteil werden lassen.
+
+
+
+
+Sechstes Kapitel.
+
+Von der Sintflut bis zum Jahre 1811.
+
+
+»Welche Veränderung seit vorigem Jahr!« rief der Stern mit dem
+leuchtenden Schweif, als er bei seinem letzten Erscheinen, von dem die
+Geschichte berichtet, zur Erde zurückkam. »Ist das dieselbe Welt, die
+ich vor ganz kurzer Zeit noch in ihrer Kindheit sah? Ist dies dasselbe
+Volk, das vordem so gering an Wert und klein an Zahl, so furchtsam
+und schwach war? Ist denn nichts mehr von dem vorhanden, was ich hier
+gesehen und gehört habe? Menschen, Völker, Städte, Länder -- alles
+hat sich geändert! Wo sind die alten Barden, die mich zum Zeugen für
+keltisches Gesetz und Recht anriefen? Wo ihre Altäre und Druidensteine?
+Wie viele Umwälzungen seit meinem Weggange! Ich sehe hier weder die
+Kelten noch die Kimrier, und dort unten weder Griechen noch die Völker
+Mediens. Was für eine Stadt ist dies hier? Unmöglich, das kann nicht
+die Erde sein!« ... Vor Staunen konnte der Komet sich kaum fassen.
+
+Seit seinem letzten Besuch hatte die Erde sich tatsächlich sehr
+verändert, denn man zählte das Jahr des Heils 1811, und in vollem
+Glanze leuchtete der Komet über Paris.[8]
+
+Für die Sterne im allgemeinen und für die großen Kometen im besonderen
+wollen dreitausend Jahre nicht gerade viel sagen: Im Kalender der
+Ewigkeit sind sie weniger als eine Sekunde. Aber für den Menschen --
+das wissen wir alle sehr gut -- sind dreitausend Jahre viel, sehr viel!
+
+Wie viele Generationen hat die Welt gesehen seit 1254 vor Christi
+Geburt! Griechenland, Latium und seine Könige, die römische Republik,
+Karthago, das römische Kaiserreich und sein Sturz, die Barbaren,
+das west-römische Reich, die Gründung von fränkischen, deutschen,
+angelsächsischen, heidnischen, christlichen, mohammedanischen Reichen,
+das Aufkommen und der Verfall des Lehnswesens in Frankreich, das dann
+die Monarchie, die Republik und das Kaiserreich erlebte! Alle diese
+Veränderungen hatten sich langsam vollzogen, und für den Kometen waren
+sie nicht vorhanden. Und was müßte sich erst ergeben, wenn wir, anstatt
+uns auf ein einziges Land zu beschränken, den ganzen Erdball in den
+Kreis unserer Darstellung zögen? Die ganze Geschichte der Menschheit
+könnte in dem Zeitraum von 1254 v. Chr. bis 1811 n. Chr. eingeschlossen
+werden, der für den Kometen doch nur ein einziges Jahr bedeutet. Seine
+Überraschung war daher ganz gerechtfertigt und zu verzeihen. Ohne
+es zu merken, war er von heute auf morgen von Agamemnon zu Napoleon
+übergegangen, und man wird zugeben müssen, daß es einen größeren Sprung
+nicht gut geben kann.
+
+Städte und Völker hatten sich geändert. Viele waren verschwunden,
+andere neu erstanden. Es war ganz klar, die Menschheit hatte einen
+großen Schritt weiter getan. Ob aber vorwärts oder rückwärts? Der
+Komet, der doch ein scharfer Beobachter war, glaubte zu der Annahme
+Grund zu haben, daß die Menschheit nicht rückwärts gegangen war.
+Aber nicht allein der Mensch hatte sich mit allem, was mit ihm in
+näherer Beziehung steht, geändert; es schienen sich auch in der Natur
+Umwandlungen vollzogen zu haben, die nicht ausschließlich dem Zahn der
+Zeit zuzuschreiben waren. Die Wälder waren zurückgedrängt und bedeckten
+nicht mehr den ungeheuren Raum, den sie ehemals eingenommen hatten.
+Von Menschenhand angelegte Wasserläufe hatten sich in die natürlichen
+Flußsysteme eingeschoben. Sümpfe waren ausgetrocknet und die Meeresufer
+schienen geschützt. Das Land war mit weißen Linien durchschnitten und
+an den Hügeln bauten sich terrassenförmig Dörfer auf. Gewerbtreibende
+Städte erhoben sich an den Ufern großer Ströme und ließen ihren Grund
+von den rasch dahinströmenden Wellen benetzen; Gärten und Parkanlagen
+umrahmten die Gruppen menschlicher Wohnungen. Man mußte es wohl
+bekennen: diesem kleinen Teil der Erdkugel hatte der Mensch das Siegel
+seiner Gegenwart aufgedrückt.
+
+Aber ... und wo gibt es kein »Aber«? ... noch immer hörte der Komet
+auf der Erde Waffengeklirr. »Auch jetzt noch! Leider!« rief er
+aus. »Fast muß ich glauben, daß den Erdenleuten das Kriegführen zur
+Gewohnheit geworden ist. Die armen Menschen! Und dabei ist ihr Planet
+doch keineswegs häßlich. Warum schlagen sie in den sie entwürdigenden
+Kriegen einander tot? Kann es etwas Schöneres geben, als unter der
+lachenden Sonne in Frieden zu schaffen? Ob sie denn überhaupt wissen
+mögen, was sie tun?«
+
+In den stillen und unendlichen Tiefen des Weltenraumes ist das Gefühl
+für Entfernungen aufgehoben, und Organe, die imstande wären, auch den
+schwächsten Ton zu vernehmen, könnten sich durch den unendlichen,
+unfühlbaren Äther verständlich machen. Alles ist relativ, die
+Stärke des Tons sowohl als die des Lichts. Wenn die Kometen nach
+den entlegenen Wüsten ihrer größten Entfernung kommen, verlangsamen
+sie ihren Gang, als ob sie in den Tiefen des Raumes dem Unbekannten
+ein aufmerksames Ohr schenken wollten. Man will sogar wissen, daß
+sie manchmal, ebenso wie in ein fernes Land Verbannte, sich leicht
+aneinander schließen, sich durch den unermeßlichen Raum ihre Gedanken
+mitteilen und daß sie sich die Langeweile der Einsamkeit und der
+Finsternis durch eine Unterhaltung über die Natur der Dinge und das
+Schicksal der Wesen, die sie auf ihren Reisen gesehen haben, zu
+verkürzen suchen. Vor einigen Jahren traf unser Komet in der Einöde
+jenseits des Neptun den Halleyschen Kometen, der, wenn er auch nicht
+ganz so vornehm und berühmt wie unser Held ist, sich doch immerhin
+bedeutend über den Durchschnitt der gewöhnlichen Kometen erhebt. Die
+beiden Reisenden gingen sofort daran, ihre Erinnerungen und Erlebnisse
+miteinander auszutauschen.
+
+»Seit meinem letzten Besuche habe ich die Erde sehr verändert
+gefunden,« begann der größere und ältere von beiden. »Man arbeitet dort
+unten sehr rasch, und es will mir scheinen, daß eines meiner Jahre
+so lang ist wie dreitausend der ihrigen, und daß in dieser winzigen
+Spanne Zeit neunzig verschiedene Generationen geboren werden und
+sterben könnten. Welch Unterschied doch zum Neptun, auf dem ich seit
+sechstausend Jahren auch nicht ein Jota sich habe ändern sehen.«
+
+»Mit Verlaub, mein verehrter Kollege,« entgegnete der andere. »Auch
+meine Jahre vergehen viel schneller als die Eurigen, denn während
+ich einen Umlauf um unsere herrliche Königin, die Sonne, vollende,
+haben die Erdbewohner erst fünfundsiebzig ihrer Jahre verlebt, und
+um die Wahrheit zu gestehen, muß man zugeben, daß man während dieses
+kurzen Zeitraumes auf der kleinen Erde Zeit findet, viel zu bauen
+und niederzureißen. Glaubt es mir, werter Kollege, ich bin über den
+Leichtsinn der Erdbewohner nicht weniger erstaunt als Ihr es seid.«
+
+»Unter uns gesagt, diese Leute scheinen mir entweder sehr oberflächlich
+oder sehr tätig zu sein. Seitdem es Menschen auf der Erde gibt,
+verändert sie sich zusehends. Früher, bevor diese Geschöpfe erschaffen
+waren, kann ich mich erinnern, zwanzig und auch dreißig Reisen gemacht
+zu haben, ohne daß ich große Änderungen auf der Erdoberfläche bemerkt
+hätte. Aber seit fünf Jahren« (der Komet meinte fünfzehntausend Jahre)
+»haben sie es gelernt, in ihrem Lande zu bauen, niederzureißen, zu
+graben, Dämme aufzuschütten und es in einer Weise umzugestalten, als ob
+sie damit ein reines Gaukelspiel aufführen wollten.«
+
+»In welchem Erdenjahre waret Ihr zum vorletztenmal da?«
+
+»Mein lieber junger Freund, wenn ich mich recht erinnere, mögen dies
+dreißig irdische Jahrhunderte her sein. Ich kenne ihren Kalender zu
+wenig, um die Zeit genau angeben zu können. Ich war gerade damals
+in meinem zweihundertfünfundvierzigsten Jahre, denn ich zählte
+fünfundvierzig Jahr, als ich die Erde zum erstenmal bemerkte, und seit
+jener Zeit bin ich zweihundertmal an ihr vorbeigekommen.«
+
+Der kleine Komet, der sehr gut zu rechnen verstand, hatte ohne große
+Mühe sofort herausgefunden, daß dieser vorletzte Besuch keinesfalls
+später als um die Mitte des dreizehnten Jahrhunderts vor Beginn der
+christlichen Zeitrechnung stattgefunden haben konnte. Häufigere Besuche
+auf der Erde hatten ihn mit der dortigen Art, die Jahre vor und
+nach Christi Geburt zu zählen, vertraut gemacht. Und er konnte sich
+eines Lächelns nicht enthalten, wenn er an die Verwunderung seines
+ehrwürdigen Gefährten über die Veränderungen dachte, die sich seit
+jener Zeit auf der Erde vollzogen hatten. Da er gern erzählte und sich
+seinem vornehmeren Kollegen angenehm machen wollte, gelüstete es ihn,
+die Unterhaltung fortzusetzen und seine persönlichen Beobachtungen über
+die Bewohner der Erde zum besten zu geben. Sein Kamerad bemerkte dies.
+
+»Lieber Kollege,« begann er, »Ihr müßt doch über den Gegenstand,
+von dem wir sprechen, viel besser als ich unterrichtet sein. Ihr
+seid viel öfter als ich der Erde nahegekommen, und Ihr könnt ihre
+Geschichte besser verfolgen. Ist der Stand der Dinge, wie ich ihn
+auf meiner letzten Reise« (er meinte im Jahre 1811) »auf der Erde
+gesehen habe, unmittelbar auf den gefolgt, der sich meinem Auge bei
+meinem vorletzten Durchgange« (also zur Zeit des Trojanischen Krieges)
+»darbot? Zwischen diesen beiden Daten scheint mir doch eine große Lücke
+zu liegen, und ich glaube, Ihr könntet mir darüber hinweghelfen.«
+
+»Seit Eurem vorletzten Besuche«, erwiderte dieser, »bin ich vierzigmal
+in die Nähe der Erde gekommen, und, wollt Ihr es mir glauben? jedesmal
+habe ich Veränderungen auf der Erde wahrgenommen. Die Menschen leben
+auf ihrer Weltkugel eine so kurze Zeit, daß es wohl schwerlich viele
+gibt, die sich rühmen dürfen, mich bei zwei meiner aufeinander
+folgenden Erscheinungen am Himmel leuchten gesehen zu haben, ja die
+meisten Menschen haben mich auch nicht ein einziges Mal gesehen. Und
+dabei«, fuhr er in traurigem Tone fort, »ist mein Jahr doch vierzigmal
+kürzer als das Eurige. Von meinen verschiedenen Erscheinungen auf der
+Erde erinnere ich mich, nach der irdischen Zeitrechnung, derjenigen im
+Jahre 12 vor Christi Geburt, dann 837, 1066, 1456, 1531 und 1759 nach
+Christi Geburt am deutlichsten, weil Ereignisse, deren unschuldige
+Ursache ich werden sollte, mich in hohem Grade bewegten. Wenn es Euch
+interessiert, will ich Euch gern mehr davon erzählen. Es wäre mir dies
+ein um so größeres Vergnügen, als ich ja nur selten Gelegenheit habe,
+davon sprechen zu können.«
+
+Da unser Komet sich ganz außerordentlich für alle menschlichen
+Angelegenheiten interessierte, und da ihm in der tiefen Einöde des
+Weltenraumes, die sie jetzt durchflogen, die Gesellschaft seines
+jüngeren Gefährten ganz willkommen war, so hörte er dessen Bericht mit
+gespanntester Aufmerksamkeit zu.
+
+Und nun erzählte ihm dieser, wie im Jahre 12 vor Beginn unserer
+Zeitrechnung im chinesischen Reiche, unter der glorreichen Herrschaft
+der Han, die auf die Dynastie der Tsin gefolgt waren, auf Befehl des
+Kaisers der Fong-siang-chi, der kaiserliche Astronom, den Kometen
+beobachtet und in ihm einen neuen Beweis für den Zorn des Himmels auf
+Tsin-chin-hoang-ti erkannt hatte, weil dieser, noch nicht zufrieden
+damit, daß er die vom Kaiser Wu-wang auf dem »Turm der Geister«
+errichtete Sternwarte hatte einäschern und außerdem vierhundertfünfzig
+der gelehrtesten Weisen des Reiches hatte enthaupten lassen, bei
+Todesstrafe anbefohlen habe, innerhalb vierzehn Tagen sämtliche über
+Moral, Philosophie, Astronomie und Geschichte handelnde Bücher zu
+verbrennen; wie ferner der kaiserliche Astronom dem Fürsten anempfohlen
+habe, ebenso wie es ja im Winter zu geschehen pflegte, sich in den zur
+Linken gelegenen Saal des Schwarzen Palastes zu begeben, und durch
+ein dem Gotte Hiuen-ming dargebrachtes Opfer symbolisch eine neue Ära
+für Kunst und Wissenschaft einzuleiten; wie dann der Tatsung-pe die
+Mandarinen, ebenso wie zur Zeit der letzten Sonnenfinsternis, um den
+kaiserlichen Thron versammelt hatte, um dem Gestirn zu huldigen, und
+wie ganz China zwei lange irdische Monate hindurch auf den Beinen
+geblieben war. Er erzählte weiter, wie im Jahre des Heils 837 Ludwig
+der Fromme, der Sohn und Nachfolger Karls des Großen, sich in einem
+dunklen Winkel der Burgterrasse vor ihm auf die Knie geworfen und ihn
+gefragt habe, welche Botschaft ihm der Komet vom Himmel brächte; wie
+dann statt des stummen Kometen des Kaisers geistliche Würdenträger
+geantwortet hätten und der fromme Kaiser die drei Jahre, die er noch
+zu leben hatte, damit verbrachte, Dome zu erbauen, reiche Abteien zu
+stiften, große Klöster zu errichten und Kirchen und Schulen mit reichen
+Mitteln auszustatten. Ferner erzählte er, wie im Jahre 1066 Wilhelm der
+Eroberer in der ganzen Normandie habe ausrufen lassen: »~Nova stella,
+novus rex~« (»Ein neuer Stern, ein neuer König«); wie er sich den
+Kometen zum Führer auserkor und unter seiner Führung England eroberte.
+Auf der berühmten Stickerei in der Bibliothek der Stadt Bayeux kann
+man dies noch heute sehen; das Werk stammt von der Königin Mathilde,
+der Frau des Eroberers. Sie bildete die bedeutendsten Szenen der
+Eroberung ab und verewigte dabei auch den Kometen, wie er über einer
+Gruppe von vielen Leuten steht, die Kopf und Hände zu ihm erheben. Und
+weiter berichtete der Wandergefährte unseres Kometen ganz ausführlich,
+wie im Jahre 1456 Christen und Muselmanen, die miteinander im Kriege
+lagen, in seiner Gestalt ein flammendes Schwert erkennen wollten, das
+am Himmel ausgesteckt worden sei, um ihnen das schrecklichste Unglück
+anzukündigen. Mohammed II., in dessen Besitz Konstantinopel bereits
+übergegangen war, hatte geschworen, daß er sein Pferd auf dem Altar
+der Sankt Peterskirche in Rom tränken werde, und auf dem Wege dahin
+belagerte er Belgrad. Als nun die Gestalt eines feurigen türkischen
+Schwertes am Himmel erschien, sah der Papst Calixt III. alle seine
+schlimmen Befürchtungen in Erfüllung gehen. Der Komet schilderte
+weiter, wie der Papst in seinem Zorn Gestirn und Türken feierlich
+verfluchte, wie er sodann das Angelus, ein Gebet, das beim Klange der
+Glocken gesprochen werden sollte, angeordnet habe, und wie dann jenes
+große Belgrader Blutbad begann, das ohne Unterbrechung zwei Tage lang
+dauerte, und bei dem die Franziskaner-Mönche mit keiner anderen Waffe
+als einem Kruzifixe in der Hand »in der vordersten Reihe standen und
+zum Papste flehten, er möge die himmlische Erscheinung beschwören,
+daß sie ihren verhängnisvollen Einfluß auf ihre Feinde ausübe«. Der
+Komet fuhr in seinem Berichte fort und erzählte, welche ganz andere
+Wirkung sein Erscheinen im Jahre 1531 hervorgerufen hätte. Luise von
+Savoyen, die Mutter Franz' I., hatte drei Tage vor ihrem Tode eine
+außerordentliche Helle in ihrem Zimmer bemerkt. Sie ließ den Vorhang
+hinwegziehen, und von dem Anblick des Kometen ganz betroffen, rief
+sie aus: »Ein solches Zeichen gibt der Himmel nicht für gewöhnliche
+Menschen. Gott hat es nur für uns Große der Erde vorbehalten.
+Schließt das Fenster! Es ist ein Komet, der mir den Tod anzeigt, wir
+wollen uns darauf vorbereiten!« Weiter erwähnte der Komet, daß von
+seinem Erscheinen im Jahre 1682 seine astronomische Registrierung
+datierte. Denn bei seinem Vorübergang in diesem Jahre wurden seine
+Elemente berechnet und festgestellt, daß er derselbe Komet sei, der
+in den Jahren 1531 und 1607 an der Erde vorübergezogen war. Dem
+berühmten Astronomen Halley war es vorbehalten, ihn der Wissenschaft
+einzuverleiben und ihm seinen Namen zu geben, und für das Jahr 1759
+kündigte Halley sein abermaliges Erscheinen an.
+
+Sodann erzählte der Halleysche Komet seinem älteren Bruder die
+Geschichte der Aufeinanderfolge der verschiedenen irdischen Reiche,
+und zwar vom Jahre 1254 vor Christi Geburt bis zum Jahre 1835 nach
+Christi Geburt, in welchem Jahre er zum letztenmal die Erde besucht
+hatte. Der große Komet war nicht wenig erstaunt, als er hörte,
+wie rasch sich auf der Erde neue Reiche bildeten und wie sie noch
+schneller wieder zerfielen. Was ihn aber am meisten, und leider auch am
+schmerzlichsten überraschte, das waren die Mittel, welche die Bewohner
+der Erde anwandten, um ihre Eroberungszüge gegeneinander ins Werk zu
+setzen. Eisen, Blut, die wildesten und ausgesuchtesten Grausamkeiten!
+Soviel Bosheit in so kleinen Körpern und in so gebrechlichen Wesen;
+solch übermütiger Eigendünkel bei den Großen und dagegen wieder
+solch angeborene Schwäche bei den Kleinen! Die Weltgeschichte schien
+ihm wenig erbaulich, und hätte er nicht in Wirklichkeit von seiner
+erhabenen Höhe aus die Schwächen der Menschheit verachtet, so hätten
+ihm bei dem schreckensvollen Bericht seines jüngeren Kollegen wohl mehr
+als einmal sozusagen seine langen Haare zu Berge gestanden.
+
+Sie flogen weiter, und ohne daß sie es merkten, zogen sie am Neptun
+vorüber. Der Halleysche Komet fuhr in der Darstellung seiner
+Lebensschicksale fort:
+
+»Während der fünfundzwanzig Jahre bis zu meinem Erscheinen im Jahre
+1682 irdischen Stils hatte die Astronomie so große Fortschritte
+gemacht, daß der Forscher, der mir seinen Namen gab, mein Erscheinen
+für das Jahr 1759 voraussagen konnte. Hierin lag sicherlich keine
+geringe Kühnheit. Ihr wißt jedoch, daß ich mich nicht so weit wie Ihr
+in die Tiefen des Weltalls stürzen kann -- denn schon nach etwa 37
+Jahren muß ich umkehren, während Ihr, Kollege, noch fünfzehnhundert
+Jahre lang Eure Reise fortsetzen könnt. Es ist Euch bekannt, daß
+ich mich jedesmal bis auf sechsunddreiviertel Millionen Meilen von
+der Erde entferne. Für uns will das nicht so sehr viel sagen; für
+die kleinen Bewohner der Erde bedeutet es aber eine unermeßliche
+Entfernung. Auf meinem Fluge werde ich bisweilen durch gewisse Bewohner
+des Weltenalls zurückgehalten, und wenn ich durch ihr Gebiet gehe,
+bin ich gezwungen, meine Bewegung zu verlangsamen. Die Herren von der
+Sternwarte müssen außerordentlich scharfe Augen haben, oder richtiger
+gesagt, mit einem fast übermenschlichen Ahnungsvermögen begabt sein.
+Denn als ich in das Gebiet des Jupiter kam, war ich ihrem Gesichtskreis
+schon längst entschwunden und konnte auch mit Hilfe ihrer schärfsten
+Fernrohre nicht mehr aufgefunden werden. Ich glaubte annehmen zu
+dürfen, ihrer Aufmerksamkeit entgangen zu sein. Aber damit war es
+nichts. Durch Jupiter verlor ich 518 Tage, und Saturn veranlaßte eine
+Verzögerung meiner Bahn um weitere 100 Tage. Nun gut. Alles dies war
+bis auf einen Monat berechnet, festgestellt und bekanntgegeben worden.
+Den Astronomen können wir nichts mehr verheimlichen.
+
+Ein glücklicher Zufall fügte es, daß man auf mein erneutes Erscheinen
+bei der Erde schon fünfzehn Jahr vorher aufmerksam geworden war,
+und zwar durch den schönsten Schweif, den man je gesehen hat, einen
+sechsfachen Schweif, der jedoch, wie ich gleich bemerken will, nicht
+mir gehörte. Ihr habt sicherlich, lieber Kollege, neulich jenen
+Vaganten gesehen, der von einer Welt zur andern fliegt und nie wieder
+an demselben Ort sich sehen läßt. Seine Bahn ist so exzentrisch, daß er
+schließlich parabolisch geworden ist. Ganz gewiß ist es auch Euch nicht
+entgangen, daß er den herrlichen Schmuck von sechs Schweifen besitzt.
+Nun, im Jahre 1744 war er mein Vorreiter, und nach dem irdischen
+Kalender gilt er als der schönste Komet des achtzehnten Jahrhunderts.
+An dem Abend, als er zum erstenmal am Himmel stand, glaubte man, eine
+zweite Sonne ginge unter, so groß war der Glanz, den seine Schweife
+ausstrahlten.
+
+Ich sagte Euch wohl schon, daß ich bei jeder Wiederkehr zur Erde
+dort immer etwas Neues in den Sitten, Gebräuchen und dem Geist der
+Völker gefunden hätte. Niemals hat sich mir jedoch diese Beobachtung
+lebhafter aufgedrängt als bei meinem letzten Besuche. Den Teil der
+Erde, den ich 1759 besuchte, sollte ich 1835 wieder sehen. Noch genauer
+als vorher hatte man die Verzögerung berechnet, die ich bei Jupiter,
+Saturn und Uranus erleiden mußte, ja, man hatte mir sogar den Weg
+vorgezeichnet, den ich auf meiner Rückkehr durch den Himmelsraum zu
+nehmen hatte. Am 20. August 1835 sollte ich am Stern ζ im Sternbild des
+Stiers vorübergehen, am 28. zwischen den Zwillingen und dem Fuhrmann
+stehen, am 21. September im Fuhrmann sein, am 3. Oktober im Luchs, am
+6. im Großen Bären, am 13. in der Krone, am 15. zwischen Herkules und
+Schlange, am 19. im Ophiuchus, am 16. November beim Stern η desselben
+Sternbildes und am 26. Dezember beim Stern Antares im Skorpion. Und
+was gewiß viel heißen will, von dieser mir so weise vorgezeichneten
+Marschroute brauchte ich nirgends abzuweichen. Aber, ich versichere
+Euch, niemals in meinem Leben und auch auf keiner anderen Welt habe
+ich so viel Umwälzungen und einen solchen Umschwung der Geister kennen
+gelernt, wie bei meinem letzten Besuch der Erde. Um Euch die Wahrheit
+zu gestehen, ist mir dies sehr nahe gegangen und ich bin darüber so
+traurig geworden, daß meine Betrübnis den Bewohnern der Erde nicht
+entgangen sein kann.[9] Was hat man auf der Erde von 1759 bis 1835
+gemacht? Welche Umwälzung hat sich bei den Menschen vollzogen? Je mehr
+ich über die Ursachen und das Wesen dieser Neuerungen nachdenke, desto
+mehr gerate ich ins völlig Dunkle. Auch der Komet Karl V. scheint sich
+darin verloren zu haben.«
+
+»Der Komet Karl V.? Was hat es mit dem für eine Bewandtnis?«
+
+»Ach, entschuldigt, verehrtester Kollege, ich vergaß vollständig, daß
+Ihr über die irdischen Ereignisse nicht genügend unterrichtet seid.
+Karl V. war ein Kaiser von Deutschland, der seine Krone niederlegte,
+als im Jahre 1556 einer unserer leuchtenden Brüder, der bis dahin
+sicherlich keine Ahnung von der Existenz der Erde hatte, zufällig
+in ihre Nähe kam. Es ist dies derselbe Komet, der nach Ansicht der
+Erdbewohner schuld an der Sintflut tragen und später beim Tode Cäsars
+geleuchtet haben soll. Aller dreihundert Jahre sollte er wiederkommen,
+also auch 1856. Aber er mag wohl inzwischen den dummen Hochmut der
+Großen der Erde kennen gelernt haben, die sich einbilden, daß sie
+im Mittelpunkt des ganzen Weltalls stehen -- genug, er hat dieser
+kleinen, eitlen Welt Valet gesagt und ist in ein anderes Sonnensystem
+geflogen. Er befindet sich jetzt im Gebiet des Polarsterns, und die
+Menschen können auf ihn warten; er kommt nicht wieder. Um jedoch den
+Faden unserer Unterhaltung, die durch diesen Muster-Kometen eine kleine
+Ablenkung erfahren hat, wieder aufzunehmen, wiederhole ich, daß ich
+mich in Mutmaßungen darüber erging, welches die Ursachen der großen
+Änderungen sein mögen, die sich während meiner Abwesenheit von der Erde
+in der europäischen Gesellschaft vollzogen haben.«
+
+»Dieses Mal kann ich Euch vielleicht Aufklärung geben, mein lieber
+junger Freund. Wenn die Großen auch oft zu hoch gestellt sind, um
+das, was sich in den unteren Regionen zuträgt, nach Gebühr sehen
+und würdigen zu können, und dadurch in eine bedauerliche Unkenntnis
+geraten, so verstehen sie es anderseits infolge ihres überlegenen
+Urteils doch, aus diesen Vorgängen die richtigen Schlüsse zu ziehen.
+Das wenige, was ich gesehen habe, kann daher vielleicht dazu dienen,
+die Lücke in Eurer Vorstellung auszufüllen. Ich weiß nur, daß es im
+Jahre 1811 in Frankreich keinen »König von Gottes Gnaden« mehr gab,
+sondern einen Kaiser, und gerade in derselben Woche, in der ich bei der
+Erde ankam, wurde diesem Kaiser ein Sohn geboren. Vom März 1811 bis
+zum April 1812 blieb ich bei der Erde. Ich glaube erkannt zu haben,
+daß die Eroberungen des Kaisers und die Vergrößerung Frankreichs die
+Nachbarreiche in Angst und Schrecken versetzten, und was mich in
+meiner Annahme bestärkte, war der Umstand, daß der große Machthaber
+eine Armee von 450000 Mann aushob, um mit dieser halben Million nach
+den russischen Steppen zu marschieren. Was aus ihnen geworden ist,
+vermag auch ich nicht zu sagen, denn vom Juli 1812 ab konnte ich auf
+der Oberfläche der kleinen Erdkugel nichts mehr erkennen.«
+
+Die Kometen sind gute Logiker. Indem sie sich einander mit ihren
+Erinnerungen aushalfen und die Erfahrungen, die sie bei ihren
+Beobachtungen der Erdbewohner gesammelt hatten, austauschten, waren sie
+imstande, sich unsere Geschichte aufzubauen. Sie verfuhren dabei ganz
+nach Vernunftschlüssen. Im Jahre 1759, so sagte der eine, gab es in
+Frankreich soziale Zustände, die in sich vollkommen morsch waren und
+auf die nun große Hämmer, Philosophen genannt, um die Wette loshieben.
+Im Jahre 1811, meinte der andere, gab es in Frankreich einen Kaiser und
+Kriegsrüstungen. Im Jahre 1835, nahm der erste wieder das Wort, hatte
+Frankreich einen konstitutionellen König und lebte in tiefstem Frieden.
+Mit diesen drei vorhandenen Tatsachen hatten sie sich in großen Zügen
+die Umrisse der französischen Geschichte geschaffen. Ihre Unterhaltung
+berührte in derselben Weise auch das Geschick der anderen Völker, denn
+die Kometen haben für eine Schar Ameisen keine größere Vorliebe als für
+die andere. Da aber diese Entwicklungen sich im großen und ganzen sehr
+ähneln und für uns, die wir doch keine Kometen sind, weniger Interesse
+haben, so verzichten wir darauf, diese siderischen Unterhaltungen hier
+wiederzugeben.
+
+So hatten die beiden Forschungsreisenden im Weltenraum, die sonst
+gewohnt waren, sich nur mit großen Dingen abzugeben, die kleine
+Erdkugel, auf der wir uns befinden, nach allen Richtungen hin
+besprochen. Bald aber mußte der Halleysche Komet abbiegen, um in seiner
+Ellipse dem Aphelium zuzufliegen, während der majestätische Komet von
+1811 in gerader Linie seine Reise fortsetzte, denn bis zum Jahre 3343
+wird er sich von der Sonne entfernen, um dann in demselben Marschtempo
+wieder zu ihr zurückzukehren. In den unermeßlichen Tiefen des
+Himmelsmeeres mag er dann wohl Welten begegnen, die uns unbekannt sind,
+einstigen Welten, deren Sonne erloschen und die in grausigem Schweigen
+ihre kosmischen Ruinen und die Gräber versunkener Kulturen durch den
+unendlichen Raum tragen.
+
+
+Fußnoten
+
+[8] Der himmlische Reisende, dessen Geschichte wir erzählen, ist in
+der Tat kein anderer als der Komet vom Jahre 1811. Die Wirkung, die
+das Auftauchen dieses herrlichen Gestirns am Abend des 26. März 1811
+überall hervorrief, war unbeschreiblich. Die fruchtbare Hitze des
+Sommers und die Güte des Weines in jenem merkwürdigen Jahr schrieb man
+dem Kometen zu. Alle Zeitungen brachten Artikel über ihn, in allen
+Sprachen unterhielt man sich von ihm und alle möglichen Erklärungen
+über seine Natur wurden gegeben. Einige schmeichelten ihm, während
+andere ihn fürchteten. Diese sahen in ihm die Verwirklichung einer
+uralten Prophezeiung, während jene in ihm ein Gnadenzeichen erblicken
+wollten, mit dem der Himmel die Geburt des Königs von Rom feierte. Auf
+ein Fensterkreuz der Tuilerien gestützt, fragte Napoleon seinen Onkel,
+den Kardinal Fesch, was er von dem wunderbaren Gestirn halte. Ganz
+Paris sah zu dem Kometen auf, und der Sommer verging nicht, ohne daß
+man unter anderem »Kometen-Krawatten« und »Kometen-Hüte« verfertigt
+hätte. Sogar einer Sauce verlieh man seinen Namen. So viel Aufsehen
+rief er hervor, daß alle, die jene Zeit erlebt hatten, sich ihrer bis
+in ihr spätes Alter erinnerten.
+
+[9] Die Edinburgh Review von 1836 schreibt: »Der Halleysche Komet
+erschien selbst in den Nächten, in denen er sich am deutlichsten
+zeigte, bleich und verschwommen, er rief mehr Neugier als Bewunderung
+hervor. Wir haben ihn durch das Fernrohr beobachtet und können den
+traurigen Eindruck nicht schildern, den sein melancholisches Licht
+erweckt. Je mehr man sich mit einem derartigen Objekt befaßt, desto
+weniger kann man über seine Natur ins reine kommen. Ein bläuliches,
+unklares Licht, das zur Hälfte durch eine große Wolkenhülle verfinstert
+wird, das ist der Anblick, der sich dem Auge bietet. Die Beschaffenheit
+dieses Lichtes ist uns unbekannt. Es ähnelt weder dem Lichte der Sonne
+noch dem des Begleiters der Erde, auch nicht dem der Sterne, ja nicht
+einmal dem des Nebels der Milchstraße. Nur wenn man Saturn durch ein
+starkes Vergrößerungsglas gesehen hat, kann man sich eine zutreffende
+Vorstellung von dem bleiernen Schimmer machen, den dieser Komet warf.«
+John Herschel.
+
+
+
+
+Nachschrift.
+
+
+Wenn im Jahre 1910 der Komet von 1835 wieder erscheint, wird er uns
+vielleicht nur um fünfundsiebzig Jahre älter finden. Was will das
+heißen? Aber wen oder was wird sein ehrwürdiger Kollege auf der Erde
+vorfinden, wenn er ihr im Jahre 4876 wiederum einen Besuch abstatten
+wird? Vielleicht wird dann auch Frankreichs glänzende Hauptstadt
+dahingeschwunden sein, wie es heute die großen Städte sind, die der
+Komet bei seiner letzten Annäherung an die Erde sah: Troja, Ninive,
+Theben und hundert andere, deren Namen mit ihren Ruinen nicht auf uns
+gekommen sind. Möglich, daß tiefste Einsamkeit dort lagert, wo einst
+Frankreich war, und daß sich Trauerweiden über dem Flusse schaukeln,
+der einst die Seine hieß. Wird der Komet Frankreich mit Paris, England
+mit London, Italien mit Rom nochmals zu sehen bekommen? Dieser Komet
+mit seiner langen Umlaufszeit, der bis jetzt weder dieselbe Stadt noch
+dasselbe Volk zum zweitenmal geschaut hat! Wenn in etwa fünfzigtausend
+Jahren wir -- oder irgendwelche andere -- diese Erzählung fortsetzen
+wollten, wird dann auch immer von neuen Dingen, die das Frühere
+verdrängt haben, berichtet werden müssen und wird die Geschichte der
+Erde jemals eine andere sein als die Geschichte von Umwälzungen und
+Neueinrichtungen, die nicht von Dauer sind?
+
+Die Kometen besitzen zwar nicht die Gabe der Weissagung. Da jedoch
+der Verfasser dieser Schrift das Glück hat, einige Kometen zu seinen
+Freunden zu zählen, und da er in dem heißen Sommer des Jahres 1811 noch
+zu klein war, um sich selbst an den großen und stolzen Kometen jenes
+Jahres wenden zu können, so erlaubte er sich erst ganz vor kurzem einen
+blondgeschweiften Boten an den erhabenen Reisenden mit der Bitte zu
+schicken, daß er ihm doch ganz im Vertrauen sagen lassen möchte, wie er
+die Erde bei seinem nächsten Besuche zu finden hoffe. Und der Autor hat
+das große Vergnügen, diese wahrhafte Geschichte mit einem angenehmen
+Bescheid abschließen zu können. Der große Komet hat sich zwar nicht
+ganz deutlich ausgedrückt -- man muß das zugestehen -- aber es ist
+dies auch wieder ein Beweis für die hohe Stellung, die er einnimmt,
+und ein Zeichen für seine große Klugheit. Er hat dem kleinen Kometen
+also gesagt, er solle mit einem freudigen Gesicht zu dem sonderbaren
+Astronomen, der ihn ausgesandt, zurückkehren. »Denn«, fügte er hinzu --
+und das sind seine eigenen Worte --, »sage ihm, mein lieber Kleiner,
+daß die Menschheit, die sich selbst schon so alt vorkommt, sich noch
+in ihrer frühen Kindheit befindet. Sie hat noch ihre Kinderkrankheiten
+durchzumachen. Aber nur nicht die Hoffnung verlieren! Ich möchte sogar
+meinen Schweif wetten, daß es keine hunderttausend Jahre mehr dauern
+wird, bis die Menschheit nicht nur zur Reife der Vernunft gelangt sein
+wird, sondern auch unentgeltlichen und obligatorischen Unterricht,
+allgemeines Stimmrecht, unabhängige republikanische Staatsverfassung,
+Befreiung der Geister von jedem Druck, und schließlich Abschaffung
+der stehenden Heere und endgültige Beseitigung der gegenseitigen
+Abschlachtungen errungen haben wird.«
+
+Das waren seine letzten Worte, die letzten Worte jenes wandernden
+Gestirnes, das es wohl versteht, von seinem erhabenen Standpunkte aus
+die Geschichte des irdischen Planeten und seiner menschlichen Bewohner
+zu beurteilen. Man kann daraus entnehmen, daß wir schließlich in dem
+ungeheuren Weltall zwar nur ein winziges Körnchen sind, daß wir aber
+dennoch, wenn wir nur unsere Fähigkeiten richtig anzuwenden verstehen,
+uns einen Wert erringen können, der uns über die Materie erhebt:
+_Geistige_ Wesen zu werden, das muß, wie ja auch der Komet meinte, das
+Endziel aller unserer Mühen sein.
+
+
+        Ende.
+
+
+
+
+Flammarion, Komet und Erde.
+
+Inhalt.
+
+
+                                                               Seite
+
+    Einleitung                                                     3
+
+    Erstes Kapitel. Erste Begegnung des Kometen mit der Erde       5
+
+    Zweites Kapitel. Umwälzungen auf der Erde                     19
+
+    Drittes Kapitel. Morgenröte der Erde                          35
+
+    Viertes Kapitel. Die vorpariserischen Pariser                 50
+
+    Fünftes Kapitel. Im Orient                                    62
+
+    Sechstes Kapitel. Von der Sintflut bis zum Jahre 1811         74
+
+    Nachschrift                                                   91
+
+
+
+
+Naturwissenschaftliche Werke aus
+
+Philipp Reclams Universal-Bibliothek.
+
+Jede Nummer ist für 20 Pf. durch alle Buchhandlungen zu beziehen
+
+
+Bücher der Naturwissenschaft
+
+herausgegeben von Prof. ~Dr.~ Siegmund Günther
+
+    1. Band. =Grundriß der Naturphilosophie.= Von Prof. ~Dr.~
+      Wilhelm Ostwald. 2. Aufl. Mit dem Bildnis des Verfassers. Nr.
+      4992/93. In Leinen 80 Pf. In Leder- oder Halbpergamentband M.
+      1.80.
+
+    2. Band. =Geschichte der Naturwissenschaften.= Von Prof. ~Dr.~
+      Siegm. Günther. =I. Teil.= 2. Aufl. Mit dem Bildnis des
+      Verf., 2 farbigen u. 4 schwarzen Tafeln. Nr. 5069/70.
+
+    3. Band. =Geschichte der Naturwissenschaften.= Von Prof. ~Dr.~
+      Siegm. Günther. =II. Teil.= 2. Auflage. Mit 2 farbigen und 8
+      schwarzen Tafeln. Nr. 5071--74. Beide Teile zusammen in einem
+      Leinenband M. 1.50. In Leder- oder Halbpergamentband M. 3.--.
+
+    4. Band. =Strahlungserscheinungen, Ionen, Elektronen und
+      Radioaktivität.= Von ~Dr.~ G. Bugge. 3. Aufl. Mit 4 Tafeln
+      und 20 Zeichnungen im Text. Nr. 5151/52. In Leinen 80 Pf. In
+      Leder- oder Halbpergamentband M. 1.80.
+
+    5. Band. =Licht und Farbe.= Von Prof. ~Dr.~ Rob. Geigel. 2.
+      Aufl. Mit 1 Porträt, 4 bunten Tafeln u. 75 Zeichnungen
+      im Text. Nr. 5188--90. In Leinen M. 1.--. In Leder- oder
+      Halbpergamentband M. 2.--.
+
+    6. Band. =Der Sternenhimmel.= Von Prof. ~Dr.~ J. B.
+      Messerschmitt. Mit dem Bildnis des Verfassers, 4 farbigen, 9
+      schwarzen Tafeln und 24 Zeichnungen im Text. 2. Auflage. Nr.
+      5228--30. In Leinen M. 1.--. In Leder- od. Hlbpgtbd. M. 2.--.
+
+    7. Band. =Die Abstammungslehre.= Von Prof. ~Dr.~ Kurt Lampert.
+      Mit dem Bildnis des Verfassers, 4 farbigen, 7 schwarzen
+      Tafeln und 9 Abbildungen im Text. Nr. 5241--43. In Leinen M.
+      1.--. In Leder- oder Halbpergamentband M. 2.--.
+
+    8. Band. =Die chemischen Grundstoffe.= Von ~Dr.~ Max Speter.
+      Mit 4 farbigen, 6 schwarzen Tafeln, einer Atomgewichtstabelle
+      u. 10 Figuren im Text. Nr. 5269/70. In Leinen 80 Pf. Zus.
+      geb. mit Bd. 17 unter d. Titel _Stoff und Energie im Lichte
+      der Chemie_ in Leder- od. Halbpgmtbd. M. 2.50.
+
+    9. Band. =Die Elektrizität.= Von Prof. Franz Adami. =I. Teil.=
+      Mit 1 Porträt, 4 schwarzen Tafeln und 29 Textfiguren. 2.
+      Aufl. Nr. 5298/99. Gebunden zus. mit Teil II, s. 14. Band.
+
+    10. Band. =Die Wärme.= Von Prof. ~Dr.~ Robert Geigel. Mit 4
+      Tafeln und 32 Zeichnungen im Text. Nr. 5321--23. In Leinen M.
+      1.--. In Leder- oder Halbpergamentband M. 2.--.
+
+    11. Band. =Chemie und Technik.= Von ~Dr.~ Günther Bugge. Mit 7
+      Tafeln u. 14 Zeichnungen im Text. Nr. 5348--50. In Leinen M.
+      1.--. In Leder- oder Halbpergamentband M. 2.--.
+
+    12. Band. =Das Klima.= Von ~Dr.~ Eugen Alt. Mit 3 farbigen
+      Erdkarten und 4 Zeichnungen im Text. Nr. 5431/32. In Leinen
+      80 Pf. In Leder- oder Halbpergamentband M. 1.80.
+
+    13. Band. =Physik der Gestirne.= Von Prof. ~Dr.~ J. B.
+      Messerschmitt. Mit 4 farbigen und 9 schwarzen Tafeln und 21
+      Zeichnungen im Text. Nr. 5451--53. In Leinen M. 1.--. In
+      Leder- oder Halbpergamentband M. 2.--.
+
+    14. Band. =Die Elektrizität.= Von Prof. Franz Adami. =II.
+      Teil.= Mit 4 farbigen und 8 schwarzen Tafeln, 89 Zeichnungen
+      im Text und einem Gesamtregister für Elektrizität I u. II.
+      Nr. 5478--80. Teil I u. II zusammen in einem Leinenband M.
+      1.50. In einem Leder- oder Halbpergamentband M. 2.70.
+
+    15. Band. =Vom Keim zum Leben.= Von Prof. ~Dr.~ Kurt Lampert.
+      Mit 4 bunten und 8 schwarzen Tafeln und 13 Abbildungen
+      im Text. Nr. 5501--3. In Leinen M. 1.--. In Leder- oder
+      Halbpergamentband M. 2.--.
+
+    16. Band. =Schnee und Eis der Erde.= Von Prof. ~Dr.~ H.
+      Wieleitner. Mit 16 Tafeln und 26 Abbildungen im Text. Nr.
+      5521--23. In Leinen M. 1.--. In Leder- od. Hlbpgtbd. M. 2.--.
+
+    17. Band. =Die chemische Verwandtschaft und ihre Beziehungen
+      zu den übrigen Energieformen.= Von ~Dr.~ Max Speter. Mit 4
+      Porträttafeln und 6 Abbildungen im Text. Nr. 5571/72. In
+      Leinen 80 Pf. Zusammen gebunden mit Band 8 unter dem Titel
+      _Stoff und Energie im Lichte der Chemie_ in Leder- oder
+      Hlbpgtbd. M. 2.50.
+
+    18. Band. =Der Wirbeltierkörper.= Eine vergleichende Anatomie
+      von ~Dr.~ Fr. Hempelmann. =I. Teil.= Mit 2 bunten und 2
+      einfarbigen Tafeln und 62 Abbildungen im Text. Nr. 5609/10.
+      Mit Teil II zus. in einem Leinenband M. 1.50. In einem Leder-
+      oder Halbpergamentband M. 2.70.
+
+    19. Band. =Der Wirbeltierkörper.= Eine vergleichende Anatomie
+      von ~Dr.~ Fr. Hempelmann. =II. Teil.= Mit 2 bunten und 2
+      einfarbigen Tafeln und 71 Abbildungen im Text und einem
+      Gesamtregister für Der Wirbeltierkörper I u. II. Nr.
+      5611--13. Mit Teil I zus. in einem Leinenband M. 1.50. In
+      einem Leder- oder Halbpergamentband M. 2.70.
+
+    20. Band. =Meereskunde.= Von Prof ~Dr.~ Adolf Pahde. Mit 3
+      farbigen Kartenbeilagen, 7 schwarzen Tafeln, 1 Porträtbeilage
+      und 13 Abbildungen im Text. Nr. 5632--34. In Leinen M 1.--.
+      In Leder- oder Halbpergamentband M. 2.--.
+
+    21. Band. =Die Welt der Kolloide.= Von ~Dr.~ Heinr. Leiser. Mit
+      7 Tafeln und 15 Abbildungen im Text. Nr. 5651/52. In Leinen
+      80 Pf. In Leder- oder Halbpergamentband M. 1.80.
+
+    22. Band. =Der Säugetierorganismus und seine Leistungen.= Von
+      Prof. ~Dr.~ Ernst Th. v. Brücke. =I. Teil.= Mit 4 bunten und
+      3 einfarbigen Tafeln und 21 Zeichnungen im Text. Nr. 5678--80.
+
+    23. Band. =Der Säugetierorganismus und seine Leistungen.= Von
+      Prof. ~Dr.~ Ernst Th. v. Brücke. =II. Teil.= Mit 3 Tafeln
+      und 28 Zeichnungen im Text und einem Gesamtregister für
+      Der Säugetierorganismus und seine Leistungen I und II. Nr.
+      5681--83. Mit Teil I zus. in einem Leinenbd. M. 1.75. In
+      einem Leder- od. Hlbpgtbd. M. 3.--.
+
+    24. Band. =Das Süßwasser der Erde.= Von Prof. ~Dr.~ W. Halbfaß.
+      Mit einem Porträt, 14 Tafeln und 13 Abbildungen im Text. Nr.
+      5708--10. In Leinen M. 1.--. In Leder- oder Halbpergamentband
+      M. 2.--.
+
+
+
+
+    Weitere Anmerkungen zur Transkription
+
+
+    Offensichtliche Fehler wurden stillschweigend korrigiert. Die
+    vordere Werbeseite wurde ans Buchende verschoben. Die Fußnoten
+    wurden jeweils ans Kapitelende verschoben.
+
+    Korrekturen:
+
+    S. 90: erst im → bis zum
+      {bis zum} Jahre 3343 wird er sich von der Sonne entfernen
+
+
+
+
+
+End of the Project Gutenberg EBook of Komet und Erde, by Camille Flammarion
+
+*** END OF THIS PROJECT GUTENBERG EBOOK KOMET UND ERDE ***
+
+***** This file should be named 60930-0.txt or 60930-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/9/3/60930/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
